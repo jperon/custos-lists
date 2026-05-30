@@ -1,0 +1,2 @@
+api.gammvert.fr
+api.gammvert.fr.cdn.cloudflare.net

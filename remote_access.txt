@@ -1,0 +1,2 @@
+admin.rustdesk.com
+api.rustdesk.com

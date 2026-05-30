@@ -1,6 +1,14 @@
 abebooks.de
 abebooks.fr
 abebookscdn.com
+americanliterature.com
+analytics.archive.org
+analytics2.us.archive.org
+api.laprocure.com
+api.perlego.com
+api.scribd.com
+apollo.archive.org
+archive.org
 chapitre.com
 chapitrepro.com
 clz.com

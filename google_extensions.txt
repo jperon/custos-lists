@@ -1,4 +1,6 @@
 accounts.google.com
+addons-pa.clients6.google.com
+addons-pa.googleapis.com
 adssetings.goggle.fr
 consent.google.fr
 google.consents.com

@@ -1,4 +1,8 @@
+960g550ka1.chat.digital.ringcentral.com
 accounts.google.com
+api-emea.flightproxy.teams.microsoft.com
+api.cc.skype.com
+api.flightproxy.skype.com
 apis.google.com
 apps.google.com
 clients2.google.com

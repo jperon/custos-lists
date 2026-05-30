@@ -1,0 +1,10 @@
+absewfkha8cb.zaz.api.amazonvideo.com
+accounts.youtube.com
+amp-api-edge.media.apple.com
+api-k8s.caast.tv
+api.eu-west-1.aiv-delivery.net
+api.skaping.com
+api.vimeo.com
+apicache-k8s.caast.tv
+appconfigs.disney-plus.net
+assets.digiteka.com

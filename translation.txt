@@ -1,6 +1,7 @@
+ajax.googleapis.com
+api-demo-proxy.deepl.com
 online-translator.com
 promt.com
 reverso.net
 systran.fr
-ajax.googleapis.com
 translate.google.fr

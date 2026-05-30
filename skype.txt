@@ -1,1 +1,3 @@
+api.cc.skype.com
+api.flightproxy.skype.com
 skype.com

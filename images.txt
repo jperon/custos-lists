@@ -1,2 +1,12 @@
 0.academia-photos.com
 0.gravatar.com
+1.gravatar.com
+2.gravatar.com
+aadcdn.msftauthimages.net
+abs-0.twimg.com
+abs-zero.twimg.com
+abs.twimg.com
+abs.twimg.com.cdn.cloudflare.net
+ae-pic-a1.aliexpress-media.com
+agent-logos.storage.googleapis.com
+api.gallery.intl.miui.com

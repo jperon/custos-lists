@@ -1,2 +1,13 @@
-familylink.google.com
+ab.dns-finder.com
+abp.oisd.nl
+account.mackeeper.com
+adaway.org
+api-ne.mackeeper.com
+api.bitwarden.com
+api.ipify.org
+api.nextdns.io
+api.printfriendly.com
+api.qustodio.com
+api.qwant.com
+api64.ipify.org
 familylink.google.com

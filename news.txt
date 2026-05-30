@@ -1,0 +1,7 @@
+aleteia.go-vip.net
+api-device.ouest-france.fr
+api-gateway-access.lefigaro.fr
+api-graphql.lefigaro.fr
+api.msn.com
+asset.lemde.fr
+assets-decodeurs.lemonde.fr

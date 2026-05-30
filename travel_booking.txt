@@ -1,0 +1,2 @@
+api.touristicmaps.com
+assets.clickandboat.com

@@ -1,7 +1,11 @@
+ads-img.mozilla.org
+ads.mozilla.org
+api.accounts.firefox.com
+archive.mozilla.org
 firefox.com
+mozilla.c3sl.ufpr.br
 mozilla.com
 mozilla.net
 mozilla.org
 mozillamessaging.com
 thunderbird.net
-mozilla.c3sl.ufpr.br

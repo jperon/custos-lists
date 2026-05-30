@@ -1,3 +1,4 @@
+api.onedrive.com
 grosfichiers.ch
 grosfichiers.com
 wetransfer.com

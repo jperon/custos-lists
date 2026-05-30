@@ -1,4 +1,7 @@
 aerocar.fr
+api-front.feuvert.fr
+api-iti.mappy.net
+api.appexnw.com
 cff.ch
 eurolines.fr
 faurevercors.fr
@@ -10,6 +13,5 @@ rhonealpes.fr
 sbb.ch
 sncf.com
 ter-sncf.com
-transisere.fr
 transisere.fr
 voyages-sncf.com

@@ -1,0 +1,2 @@
+a.doctolib.fr
+api.doctolib.fr

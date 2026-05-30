@@ -1,5 +1,11 @@
-bnpparibas.net
-hellobank.fr
+acquiring-cdn.revolut.com
+api-m.paypal.com
+api.cmb.fr
+api.mercadopago.com
+api.revolut.com
+apiv2.redotpay.com
+aqueduct.revolut.com
 bnp-privacy.my.onetrust.com
+bnpparibas.net
 f01.inbenta.com
 hellobank.fr

@@ -1,2 +1,17 @@
+adsassets.waze.com
+aerialpoints.djigate.com
+api-geocode.mappy.net
+api-iti.mappy.net
+api-map.mappy.net
+api-poi.mappy.net
+api-search.mappy.net
+api-suggest.mappy.net
+api.beacondb.net
+api.mapbox.com
+api.maptiler.com
+api.openrouteservice.org
+api.touristicmaps.com
+api.wego.hereapi.com
+apis.apple.map.fastly.net
 mappy.com
 viamichelin.fr

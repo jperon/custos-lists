@@ -1,3 +1,16 @@
 .ign.fr
+account.flitsmeister.app
+adsassets.waze.com
+api-geocode.mappy.net
+api-iti.mappy.net
+api-map.mappy.net
+api-poi.mappy.net
+api-search.mappy.net
+api-suggest.mappy.net
+api.beacondb.net
+api.mapbox.com
+api.maptiler.com
+api.openrouteservice.org
+api.wego.hereapi.com
 geopf.fr
 geoportail.gouv.fr
