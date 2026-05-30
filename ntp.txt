@@ -1,0 +1,5 @@
+0.datadog.pool.ntp.org
+0.fr.pool.ntp.org
+0.nixos.pool.ntp.org
+0.pool.ntp.org
+0.ubnt.pool.ntp.org
