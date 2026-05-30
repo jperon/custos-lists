@@ -1,0 +1,4 @@
+local
+lan
+home.arpa
+stemarie.dynv6.net

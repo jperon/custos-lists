@@ -1,0 +1,9 @@
+google-analytics.com
+googleapis.com
+gstatic.com
+microsoft.com
+ntp.org
+sanasecurity.com
+verisign.com
+windows.com
+windowsupdate.com

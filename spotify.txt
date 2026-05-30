@@ -1,0 +1,4 @@
+audio4-ak-spotify-com.akamaized.net
+scdn.co
+spotify.com
+spotifycdn.com

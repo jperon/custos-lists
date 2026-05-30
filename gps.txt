@@ -1,0 +1,3 @@
+.ign.fr
+geopf.fr
+geoportail.gouv.fr

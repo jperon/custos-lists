@@ -1,0 +1,18 @@
+# Android / Chrome / Google
+connectivitycheck.gstatic.com
+connectivitycheck.android.com
+connectivitycheck.google.com
+clients3.google.com
+www.gstatic.com
+# Apple (macOS, iOS, iPadOS)
+captive.apple.com
+www.apple.com
+# Windows
+msftncsi.com
+msftconnecttest.com
+# Firefox
+detectportal.firefox.com
+# Ubuntu
+connectivity-check.ubuntu.com
+# KDE Plasma
+networkcheck.kde.org

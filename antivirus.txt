@@ -1,0 +1,16 @@
+akamai.net
+akamaitechnologies.com
+avast.com
+avcdn.net
+avg.com
+avg.cz
+avg.fr
+avgfree.com
+geo.kaspersky.com
+akamai.avg.com.edgesuite.net
+akamai.avg.cz.edgesuite.net
+akamai.grisoft.com
+akamai.grisoft.com.edgesuite.net
+akamai.grisoft.cz
+akamai.grisoft.cz.edgesuite.net
+avg.nation.com

@@ -1,0 +1,7 @@
+wikibooks.org
+wikimedia.org
+wikipedia.org
+wikiquote.org
+wikisource.org
+wikiversity.org
+wiktionary.org

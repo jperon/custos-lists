@@ -1,0 +1,9 @@
+accounts.google.com
+adssetings.goggle.fr
+consent.google.fr
+google.consents.com
+myaccount.google.com
+policies.google.com
+safety.google.com
+support.google.com
+tools.google.com

@@ -1,0 +1,6 @@
+online-translator.com
+promt.com
+reverso.net
+systran.fr
+ajax.googleapis.com
+translate.google.fr

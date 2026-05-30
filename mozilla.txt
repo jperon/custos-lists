@@ -1,0 +1,7 @@
+firefox.com
+mozilla.com
+mozilla.net
+mozilla.org
+mozillamessaging.com
+thunderbird.net
+mozilla.c3sl.ufpr.br
