@@ -167,3 +167,6 @@ wps-docer-property.file.docer.com
 wps-docer-property.ks3-cn-beijing.ksyun.com
 wps-docer-property.ks3-cn-beijing.ksyuncs.com
 wps-picasso-prod-neu.webpubsub.azure.com
+zj-roaming.wps.cn
+zt.wps.cn
+zw-roaming.wps.cn

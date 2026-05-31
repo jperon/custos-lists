@@ -162,3 +162,5 @@ www.gettyimages.fr
 www.gravatar.com
 www.picclickimg.com
 www.redditstatic.com
+yt3.ggpht.com
+yt4.ggpht.com

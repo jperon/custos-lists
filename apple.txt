@@ -336,3 +336,5 @@ weatherkit.apple.com
 wps.apple.com
 wps.v.aaplimg.com
 www-apple-com.v.aaplimg.com
+xp.apple.com
+xp.v.aaplimg.com

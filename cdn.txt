@@ -1141,3 +1141,5 @@ www.gammvert.fr.cdn.cloudflare.net
 www.ikea.com.cdn.cloudflare.net
 www.micstatic.com
 www.pettan.art.cdn.hstgr.net
+www.woodbrass.com.cdn.cloudflare.net
+z-m-static.xx.fbcdn.net

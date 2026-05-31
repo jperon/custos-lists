@@ -21,3 +21,4 @@ stream.meet.google.com
 teams-ring.msedge.net
 teams.cloud.microsoft
 www.gstatic.com
+zoom.us

@@ -452,3 +452,9 @@ vod-dsc-eu-south-1-mrs1-dss.media.dssott.com
 vod-ftc-eu-north-2.media.dssott.com
 vod-ftc-eu-south-1.media.dssott.com
 vod3.cf.dmcdn.net
+www.youtube-nocookie.com
+www.youtube.com
+youtu.be
+youtube.com
+yt3.ggpht.com
+yt4.ggpht.com

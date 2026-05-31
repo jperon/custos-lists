@@ -180,3 +180,10 @@ www.babelio.com
 www.facebook.com
 www.pinterest.com.au
 www.redditstatic.com
+www.vk.com
+www.whatsapp.com
+www.youtube.com
+x.com
+youtube.com
+z-m-static.xx.fbcdn.net
+z-p42-instagram.c10r.instagram.com

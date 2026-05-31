@@ -40,3 +40,4 @@ snapdrop.net
 teams-ring.msedge.net
 teams.cloud.microsoft
 tr.message.maaf.fr
+www.whatsapp.com

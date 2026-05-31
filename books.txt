@@ -51,3 +51,5 @@ www.bdgest.com
 www.bedetheque.com
 www.calameo.com
 www.perlego.com
+www.yumpu.com
+yumpu.com
