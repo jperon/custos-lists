@@ -124,6 +124,7 @@ powerdns.com
 prdownloads.sourceforge.net
 production.cloudflare.docker.com
 pub.freerdp.com
+pulsesupdate.com
 pypi.nvidia.com
 pypi.org
 pytorch.org

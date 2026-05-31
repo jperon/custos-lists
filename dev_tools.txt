@@ -83,3 +83,5 @@ packagecontrol.io
 ping.ui.com
 polyfill-fastly.io
 prod.us-east-1.sonar.prime-video.amazon.dev
+q7vp3ix354m-6316b1.test.nextdns.io
+qiwtx4sjqz-6316b1.test.nextdns.io

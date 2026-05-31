@@ -685,3 +685,7 @@ product-gallery.cloudinary.com
 production.cloudfront.docker.com
 public.slidesharecdn.com
 publicassets.cdn-apple.g.aaplimg.com
+q-xx.bstatic.com
+qsearch-a.akamaihd.net
+qualdnt.b-cdn.net
+r0.mradx.net

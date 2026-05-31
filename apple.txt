@@ -274,3 +274,5 @@ profile.gc.apple.com
 profile.gc.fe2.apple-dns.net
 publicassets.cdn-apple.g.aaplimg.com
 push.apple.com
+query.ess.apple.com
+quota.fe2.apple-dns.net

@@ -45,3 +45,6 @@ newassets.hcaptcha.com
 ookla.moji.fr.prod.hosts.ooklaserver.net
 opensignal-api.opensignal.com
 particulier.edf.fr
+puc-prov.keyyo.com
+pulsesservice.com
+qrco.de

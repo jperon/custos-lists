@@ -93,3 +93,5 @@ portailavenirs.ingeus.fr
 pot-pourri.fltr.ucl.ac.be
 ps.calameoassets.com
 public.slidesharecdn.com
+quillbot.com
+quillbot.scribbr.fr

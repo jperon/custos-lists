@@ -44,6 +44,7 @@ paypal.com
 paypal.fr
 paypalobjects.com
 pine-facade.tradingview.com
+pushstream.tradingview.com
 westernunion.fr
 xe.com
 xe.net

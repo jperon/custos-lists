@@ -122,3 +122,5 @@ parniswatch.com
 pdp.aliexpress-media.com
 picclick.fr
 prod.transcript.decathlon.net
+queue.fnac.com
+queue.fnacdarty.com

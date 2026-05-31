@@ -152,3 +152,5 @@ onedriveclucproddm20007.blob.core.windows.net
 outlook.cloud.microsoft
 params.wps.com
 plugin-server.wps.com
+qing.wps.cn
+qr.wps.cn

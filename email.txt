@@ -72,6 +72,7 @@ outlook.com
 outlook.office.com
 phplist.le-pli-de-reinformation.tv
 proton.me
+r1.mailin.fr
 securemail.pro
 signal-spam.fr
 static.microsoft

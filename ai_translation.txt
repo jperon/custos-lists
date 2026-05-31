@@ -8,3 +8,5 @@ libs.quillbot.com
 m-prod-c3e4c3544795.writefull.ai
 ms-sso.copilot.com
 nlp.writefull.ai
+quillbot.com
+quillbot.scribbr.fr

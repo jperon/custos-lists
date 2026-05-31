@@ -564,6 +564,10 @@ promodis.hosting.front.wes-cloud.com
 public-ethos503-prod-irl1-d4f966b9c456443e.elb.eu-west-1.amazonaws.com
 public-ethos551-prod-va6-86ff40ecc44ad93b.elb.us-east-1.amazonaws.com
 public-ethos602-prod-irl1-481ed62a59a7e9cd.elb.eu-west-1.amazonaws.com
+pv218qmzox6.prod.cloud.adobe.io
+pv24v41zibm.prod.cloud.adobe.io
+pv2fcqvzl1r.prod.cloud.adobe.io
+quick-actions.express.adobe.com
 relay.magic-wormhole.io
 rosariosmg.mooo.com
 sheltercom.talkspirit.com

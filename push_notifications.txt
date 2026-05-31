@@ -63,3 +63,5 @@ cdn-push.sprkly.me
 cdn.by.wonderpush.com
 drws.batch.com
 notifpush.com
+push.rollout.io
+push.sprkly.me
