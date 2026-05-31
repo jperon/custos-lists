@@ -27,3 +27,4 @@ m.stripe.network
 mon.cmb.fr
 nmb.credit-agricole.fr
 pay.wps.cn
+static-mabanque.credit-agricole.fr

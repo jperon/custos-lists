@@ -25,3 +25,4 @@ navastro.com
 navastro.fr
 navastro.free.fr
 pot-pourri.fltr.ucl.ac.be
+science.production.amzn-science.brightspot.cloud

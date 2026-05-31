@@ -14,3 +14,5 @@ le-spot-nautique.bzh
 pro.tourismebretagne.bzh
 public.api.youbook.travel
 reginasailing.com
+static1.clickandboat.com
+tss.samboat.fr

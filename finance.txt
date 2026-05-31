@@ -45,6 +45,10 @@ paypal.fr
 paypalobjects.com
 pine-facade.tradingview.com
 pushstream.tradingview.com
+scad.ca-payment-services.com
+tradingview-widget.b-cdn.net
+trouter-atm-pub-ent-emea.trafficmanager.net
+trouter-atm-pub-ent.trafficmanager.net
 westernunion.fr
 xe.com
 xe.net

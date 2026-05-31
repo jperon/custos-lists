@@ -1,3 +1,10 @@
 odc.null
 realizationnewestfangs.com
+this-url-does-not-exist-044c21f0-0946-487b-a705-1fb8ff7154b2.invalid
+this-url-does-not-exist-4107fffe-f1a4-474c-8b4a-3d1a0709d67f.invalid
+this-url-does-not-exist-652d05d9-f89f-471e-aadc-3bf8a865f37b.invalid
+this-url-does-not-exist-8afa3c1d-24b0-4125-9288-264354dc6202.invalid
+this-url-does-not-exist-ac0db383-bf55-4bea-9b91-93f687da9539.invalid
+this-url-does-not-exist-ceda2624-8e41-428b-a9b0-66eebf901a2e.invalid
+this-url-does-not-exist-d89e9d8d-c4b8-423a-b329-82aa5bf1bdfc.invalid
 use-application-dns.net

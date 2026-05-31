@@ -25,3 +25,5 @@ malware-filter.gitlab.io
 malware-filter.pages.dev
 mkapi.mackeeper.com
 mupdates-de.trusteer.com
+sv.symcb.com
+sv.symcd.com

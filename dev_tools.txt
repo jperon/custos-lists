@@ -88,3 +88,4 @@ qiwtx4sjqz-6316b1.test.nextdns.io
 render.api.affilizz.com
 repo.whatap-browser-agent.io
 resolver.confidence.dev
+snippet.maze.co

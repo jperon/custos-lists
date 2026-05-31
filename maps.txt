@@ -44,4 +44,11 @@ renderer-row.waze.com
 revgeocode.search.hereapi.com
 router.hereapi.com
 routingols-prd.borg-p.nw.ops.here.com
+social-row.waze.com
+staticmaps.webmichelin.com
+tile.jawg.io
+tiles-s.windy.com
+tiles.qwant.com
+tiles.windy.com
+tts.waze.com
 viamichelin.fr

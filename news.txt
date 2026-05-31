@@ -49,3 +49,9 @@ public-api.wordpress.com
 reinformation.tv
 resources.blogblog.com
 rewards.bing.com
+static-lists.linternaute.com
+static.20mn.fr
+static.cnews.fr
+static.lefigaro.fr
+static.lexpress.fr
+tvmag.lefigaro.fr

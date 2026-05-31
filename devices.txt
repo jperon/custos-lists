@@ -59,3 +59,5 @@ poll.gras.samsungdm.com
 reachit.lenovo.com
 remote-care.eu
 remote-service-pf.com
+smartlife-dre.things.dbankcloud.com
+smp-device-content.apple.com

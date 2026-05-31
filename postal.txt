@@ -5,3 +5,5 @@ laposte.fr
 laposte.net
 mondialrelay.fr
 pagesjaunes.fr
+suividucourrier.com
+t.notif-laposte.info

@@ -40,3 +40,7 @@ maupassant.free.fr
 openlibrary.org
 ot.digiteka.com
 pictures.abebooks.com
+s.calameoassets.com
+scribd.map.fastly.net
+textes.libres.online.fr
+tp.361c988a3-frontier.audible.fr

@@ -15,3 +15,5 @@ meteosuisse.admin.ch
 meteosuisse.ch
 node-i.windy.com
 node.windy.com
+tiles-s.windy.com
+tiles.windy.com

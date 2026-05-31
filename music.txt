@@ -3,3 +3,8 @@ play.itunes.apple.com
 publishers.edisound.com
 radio-services.itunes.apple.com
 radio.itunes.apple.com
+sb.music.apple.com
+sc-static.net
+su.itunes.apple.com
+t2.genius.com
+ts.itunes.apple.com

@@ -13,3 +13,4 @@ image.izneo.com
 m.scan-manga.com
 mirrors.creativecommons.org
 origine-terre-enluminure.fr
+theatre-classique.fr

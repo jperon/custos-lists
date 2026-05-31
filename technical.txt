@@ -735,7 +735,17 @@ r.infopro.fr
 reachit.lenovo.com
 rna-resource.acrobat.com
 rna-v2-resource.acrobat.com
+s-part-0048.t-0009.t-msedge.net
 sanasecurity.com
+singapore.performaized.com
+skzq1lb3ux-5ed7c9.test.nextdns.io
+snbsm.com
+speedperf.axione.fr.prod.hosts.ooklaserver.net
+speedtest.milkywan.fr.prod.hosts.ooklaserver.net
+speedtest.par1.adky.net
+t.screeb.app
+target.farnell.com
+test-ipv6.nextdns.io
 verisign.com
 windows.com
 windowsupdate.com

@@ -1,3 +1,4 @@
 api.cc.skype.com
 api.flightproxy.skype.com
 skype.com
+skypeecs-prod-ukw-0-b-vmss.ukwest.cloudapp.azure.com

@@ -6,5 +6,7 @@ atc.spotify.map.fastly.net
 audio4-ak-spotify-com.akamaized.net
 musicstatus.itunes.apple.com
 scdn.co
+scdnco.spotify.map.fastly.net
 spotify.com
 spotifycdn.com
+tls13.spotifycdn.map.fastly.net

@@ -156,3 +156,7 @@ qing.wps.cn
 qr.wps.cn
 recent.svc.cloud.microsoft
 roaming.wps.cn
+sdf.outlook.cloud.microsoft
+static.dataservices.hp.com
+teams-ring.msedge.net
+teams.cloud.microsoft

@@ -7,4 +7,7 @@ larousse.fr
 leconjugueur.lefigaro.fr
 lepeupledesmots.com
 lexilogos.com
+tos-dev-getdata.samsung-dict.com
+tos-prod-getdata.samsung-dict.com
+tos-stg-getdata.samsung-dict.com
 wiktionary.org

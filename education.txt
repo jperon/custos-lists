@@ -96,3 +96,11 @@ public.slidesharecdn.com
 quillbot.com
 quillbot.scribbr.fr
 renass.unistra.fr
+scribbr.partners.quillbot.com
+sitetab3.ac-reims.fr
+svt.ac-besancon.fr
+svt.dis.ac-guyane.fr
+talkpal.ai
+time.kartable.fr
+topmaths.fr
+try.quillbot.com

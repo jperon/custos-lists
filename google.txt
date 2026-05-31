@@ -373,3 +373,8 @@ rr5.sn-25ge7nzz.googlevideo.com
 rr5.sn-25glenez.googlevideo.com
 rr5.sn-25glenlr.c.youtube.com
 rr5.sn-25glenlr.googlevideo.com
+sba.keys.ohttp.prod.via.google
+syndicatedsearch.goog
+testfamilysafety.bing.com
+th.bing.com
+thfvnext.bing.com

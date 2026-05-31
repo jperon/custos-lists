@@ -34,3 +34,9 @@ mmx-ds.cdn.whatsapp.net
 nexus-websocket-a.intercom.io
 pps.whatsapp.net
 rbm.goog
+scontent.whatsapp.net
+sms.wps.cn
+snapdrop.net
+teams-ring.msedge.net
+teams.cloud.microsoft
+tr.message.maaf.fr

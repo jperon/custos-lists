@@ -5,3 +5,4 @@ fitwill.app
 isabelledevaugelas-nutrition.fr
 ontology.health.apple.com
 pk.labocleo.org
+static.dicopathe.com

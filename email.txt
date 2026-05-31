@@ -78,8 +78,13 @@ r.mail.ru
 r.mailin.fr
 r1.mailin.fr
 register.emailsp.com
+sdf.outlook.cloud.microsoft
 securemail.pro
 signal-spam.fr
+smtp.prn.ovh
+static.mailerlite.com
 static.microsoft
+t.mailjet.com
+top-fwz1.mail.ru
 yimg.com
 ymail.com

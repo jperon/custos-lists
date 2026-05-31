@@ -14,3 +14,6 @@ prx13.sip.keyyo.net
 prx2.sip.keyyo.net
 prx2.sip.phonesystems.net
 prx3.sip.phonesystems.net
+t-ring-s2.msedge.net
+t-ring.msedge.net
+traffic.calldorado.com

@@ -10,3 +10,4 @@ ms-sso.copilot.com
 nlp.writefull.ai
 quillbot.com
 quillbot.scribbr.fr
+talkpal.ai
