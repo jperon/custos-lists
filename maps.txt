@@ -51,4 +51,8 @@ tiles-s.windy.com
 tiles.qwant.com
 tiles.windy.com
 tts.waze.com
+umap.openstreetmap.fr
+us-east-1-wego-backend-prd.api-gateway.ls.hereapi.com
 viamichelin.fr
+www.camptocamp.org
+www.naviloc.com

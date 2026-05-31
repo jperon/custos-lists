@@ -160,3 +160,10 @@ sdf.outlook.cloud.microsoft
 static.dataservices.hp.com
 teams-ring.msedge.net
 teams.cloud.microsoft
+update-mar.libreoffice.org
+update.libreoffice.org
+wdl1.cache.wps.cn
+wps-docer-property.file.docer.com
+wps-docer-property.ks3-cn-beijing.ksyun.com
+wps-docer-property.ks3-cn-beijing.ksyuncs.com
+wps-picasso-prod-neu.webpubsub.azure.com

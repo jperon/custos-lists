@@ -55,3 +55,13 @@ static.cnews.fr
 static.lefigaro.fr
 static.lexpress.fr
 tvmag.lefigaro.fr
+utiq.lefigaro.fr
+voilesetvoiliers.ouest-france.fr
+wp.fr.aleteia.org
+wst.lefigaro.fr
+www.20minutes.fr
+www.allocine.fr
+www.eurosport.fr
+www.fortunapost.com
+www.mma.fr
+www.passion-chasse.fr

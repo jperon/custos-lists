@@ -7,3 +7,5 @@ histovec.interieur.gouv.fr
 lettres-histoire-geographie.enseigne.ac-lyon.fr
 portailavenirs.ingeus.fr
 public.iroquois.fr
+www.europarl.europa.eu
+www.geneve.ch

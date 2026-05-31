@@ -6,3 +6,5 @@ wikiquote.org
 wikisource.org
 wikiversity.org
 wiktionary.org
+ws-export.wmcloud.org
+ws-wikien-file.oss-us-west-1.aliyuncs.com

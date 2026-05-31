@@ -125,3 +125,8 @@ tr.iadsdk.apple.com
 trackquantx.adux.com
 tripleperformance.fr
 try.abtasty.com
+us-click.aliexpress.com
+www.emailing-france.com
+www.globalso.site
+www.googletagservices.com
+www.guaranteed-reviews.com

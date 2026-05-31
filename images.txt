@@ -155,3 +155,10 @@ ts3.mm.bing.net
 ts4.mm.bing.net
 tse1.mm.bing.net
 twimg.twitter.map.fastly.net
+ui-avatars.com
+weather-map.v.aaplimg.com
+www.flaticon.com
+www.gettyimages.fr
+www.gravatar.com
+www.picclickimg.com
+www.redditstatic.com

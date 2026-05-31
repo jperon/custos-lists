@@ -42,3 +42,8 @@ resource.mediago.com
 rosariosis.org
 textes.libres.online.fr
 theatre-classique.fr
+www.fandom.com
+www.goodhousekeeping.com
+www.parismuseescollections.paris.fr
+www.plumetismagazine.net
+www.poetica.fr

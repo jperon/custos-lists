@@ -170,3 +170,13 @@ t.co
 test-gateway.instagram.com
 tr.snapchat.com
 twimg.twitter.map.fastly.net
+twitter.com
+vk.com
+w3-reporting-nel.reddit.com
+w3-reporting-nel.reddit.com.cdn.cloudflare.net
+wr.x.com
+www.academia.edu
+www.babelio.com
+www.facebook.com
+www.pinterest.com.au
+www.redditstatic.com

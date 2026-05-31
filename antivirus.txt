@@ -27,3 +27,4 @@ mkapi.mackeeper.com
 mupdates-de.trusteer.com
 sv.symcb.com
 sv.symcd.com
+updater.mackeeper.com

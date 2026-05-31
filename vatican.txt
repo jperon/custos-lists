@@ -2,3 +2,4 @@ news.va
 vatican.va
 vaticanlibrary.va
 vatlib.it
+www.basilicasangiovanni.va

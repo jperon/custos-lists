@@ -26,3 +26,6 @@ navastro.fr
 navastro.free.fr
 pot-pourri.fltr.ucl.ac.be
 science.production.amzn-science.brightspot.cloud
+vittascience.com
+www.amazon.science
+www.futura-sciences.com

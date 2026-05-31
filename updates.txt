@@ -148,6 +148,14 @@ static.microsoft
 tommie.github.io
 tvcdn.de
 ubuntu.com
+update-mar.libreoffice.org
+update.dbankcdn.com
+update.easyviewercloud.com
+update.libreoffice.org
+updater.mackeeper.com
+updates.g.aaplimg.com
+updatev2-test-hz.lechange.cn
+updatev2.easyviewercloud.com
 usebruno.com
 ut-capitole.fr
 voidlinux.org

@@ -65,3 +65,7 @@ drws.batch.com
 notifpush.com
 push.rollout.io
 push.sprkly.me
+vntsnotificationservice.visa.com
+vntsnotificationservice.visa.com.cdn.cloudflare.net
+ws.batch.com
+wsmetrics.batch.com

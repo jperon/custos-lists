@@ -8,3 +8,6 @@ sc-static.net
 su.itunes.apple.com
 t2.genius.com
 ts.itunes.apple.com
+upp.itunes.apple.com
+www.hyperion-records.co.uk
+www.musicnotes.com

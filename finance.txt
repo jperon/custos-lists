@@ -49,6 +49,10 @@ scad.ca-payment-services.com
 tradingview-widget.b-cdn.net
 trouter-atm-pub-ent-emea.trafficmanager.net
 trouter-atm-pub-ent.trafficmanager.net
+util.cardinalcommerce.com
 westernunion.fr
+www.achat-or-et-argent.fr
+www.aprudit.com
+www.payment.digital
 xe.com
 xe.net

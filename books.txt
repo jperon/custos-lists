@@ -44,3 +44,10 @@ s.calameoassets.com
 scribd.map.fastly.net
 textes.libres.online.fr
 tp.361c988a3-frontier.audible.fr
+www.atramenta.net
+www.audible.fr
+www.babelio.com
+www.bdgest.com
+www.bedetheque.com
+www.calameo.com
+www.perlego.com

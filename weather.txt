@@ -17,3 +17,9 @@ node-i.windy.com
 node.windy.com
 tiles-s.windy.com
 tiles.windy.com
+weather-analytics-events.apple.com
+weather-data.apple.com
+weather-edge.apple.com
+weather-edge.fe2.apple-dns.net
+weather-map2.apple.com
+weatherkit.apple.com

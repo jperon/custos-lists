@@ -16,3 +16,4 @@ public-api.wordpress.com
 repo.nextdns.io
 repo.whatap-browser-agent.io
 snowplowprd.trx.gitlab.net
+ublockorigin.github.io

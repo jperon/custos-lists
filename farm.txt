@@ -1,2 +1,4 @@
 api.gammvert.fr
 api.gammvert.fr.cdn.cloudflare.net
+www.agrialpro.fr
+www.ferme-uhartia.com

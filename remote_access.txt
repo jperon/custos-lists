@@ -24,3 +24,4 @@ relay-cd1c1bdd.net.anydesk.com
 relay-d3cb6642.net.anydesk.com
 relay-da8827fa.net.anydesk.com
 relay-dfb162d5.net.anydesk.com
+vpn-frat.revan.ovh

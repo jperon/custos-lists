@@ -61,3 +61,8 @@ remote-care.eu
 remote-service-pf.com
 smartlife-dre.things.dbankcloud.com
 smp-device-content.apple.com
+waveshare.com
+wurfl.io
+www.adafruit.com
+www.medtronic.com
+www.pokitto.com

@@ -89,3 +89,15 @@ render.api.affilizz.com
 repo.whatap-browser-agent.io
 resolver.confidence.dev
 snippet.maze.co
+u.expo.dev
+ublockorigin.github.io
+ublockorigin.pages.dev
+ui-avatars.com
+us-central1-apt.pkg.dev
+use.fontawesome.com
+wac-0003.wac-msedge.net
+webapi.sdk.crowd-umlaut.com
+www.adobe.com
+www.agence-api.fr
+www.bingapis.com
+www.fpdf.org

@@ -378,3 +378,7 @@ syndicatedsearch.goog
 testfamilysafety.bing.com
 th.bing.com
 thfvnext.bing.com
+www.blogblog.com
+www.blogger.com
+www.google.cn
+www.google.de

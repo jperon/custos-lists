@@ -444,3 +444,11 @@ rr5.sn-25glenez.googlevideo.com
 rr5.sn-25glenlr.c.youtube.com
 rr5.sn-25glenlr.googlevideo.com
 s.youtube.com
+usher.ttvnw.net
+vod-adaptive-ak.vimeocdn.com
+vod-akc-eu-north-2.media.dssott.com
+vod-akc-eu-south-1.media.dssott.com
+vod-dsc-eu-south-1-mrs1-dss.media.dssott.com
+vod-ftc-eu-north-2.media.dssott.com
+vod-ftc-eu-south-1.media.dssott.com
+vod3.cf.dmcdn.net

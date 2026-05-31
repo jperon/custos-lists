@@ -236,3 +236,7 @@ track.kueezrtb.com
 track.pstmrk.it
 tracking.bp01.net
 trck.digiteka.com
+www.ezojs.com
+www.ezojs.com.cdn.cloudflare.net
+www.fastly-insights.com
+www.googletagservices.com
