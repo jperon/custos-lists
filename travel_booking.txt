@@ -11,3 +11,5 @@ helioscroisiere.fr
 hozana.org
 insights.bookingkit.net
 le-spot-nautique.bzh
+pro.tourismebretagne.bzh
+public.api.youbook.travel

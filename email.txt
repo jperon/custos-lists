@@ -71,6 +71,7 @@ outlook.cloud.microsoft
 outlook.com
 outlook.office.com
 phplist.le-pli-de-reinformation.tv
+proton.me
 securemail.pro
 signal-spam.fr
 static.microsoft

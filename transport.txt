@@ -24,6 +24,7 @@ normatrans.station-chargeur.com
 oceane.breizhgo.bzh
 opodo.fr
 oui.sncf
+pointlocation.ffvoile.fr
 rhonealpes.fr
 sbb.ch
 sncf.com

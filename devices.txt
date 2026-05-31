@@ -54,5 +54,7 @@ msg.csw.lenovo.com
 mus.lenovo.com
 mydjiflight.dji.com
 nc-pod10-smp-device.apple.com
+play.samsungcloud.com
+poll.gras.samsungdm.com
 remote-care.eu
 remote-service-pf.com

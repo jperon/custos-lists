@@ -11,3 +11,5 @@ joe-antognini.github.io
 malware-filter.gitlab.io
 opengraph.githubassets.com
 packagecontrol.github.io
+protomaps.github.io
+public-api.wordpress.com

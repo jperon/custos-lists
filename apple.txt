@@ -268,4 +268,9 @@ pd.itunes.apple.com
 pds-init.ess.apple.com
 pds-prod.v.aaplimg.com
 pds.ess.apple.com
+play.itunes.apple.com
+profile.ess.apple.com
+profile.gc.apple.com
+profile.gc.fe2.apple-dns.net
+publicassets.cdn-apple.g.aaplimg.com
 push.apple.com

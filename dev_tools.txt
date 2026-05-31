@@ -81,3 +81,5 @@ odrs.gnome.org
 packagecontrol.github.io
 packagecontrol.io
 ping.ui.com
+polyfill-fastly.io
+prod.us-east-1.sonar.prime-video.amazon.dev

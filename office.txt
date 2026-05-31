@@ -151,3 +151,4 @@ onedriveclucproddm20003.blob.core.windows.net
 onedriveclucproddm20007.blob.core.windows.net
 outlook.cloud.microsoft
 params.wps.com
+plugin-server.wps.com

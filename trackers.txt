@@ -185,3 +185,10 @@ mweb-hb.presage.io
 nl-gcp-ad-track-sdk-europe-west4-c.mtgglobals.com
 onetrack.carrefour.fr
 otrack.kueezrtb.com
+pixel.quantcount.com
+pixel.wp.com
+platform-api.sharethis.com
+player.stats.live-video.net
+poll.gras.samsungdm.com
+prdsurvey.b-cdn.net
+prebid.admatic.de

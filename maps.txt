@@ -37,4 +37,7 @@ opensearch-autosuggest-prd.borg-p.nw.ops.here.com
 opensearch-geocode-prd.borg-p.nw.ops.here.com
 opensearch-lookup-prd.borg-p.nw.ops.here.com
 opensearch-revgeocode-prd.borg-p.nw.ops.here.com
+platform.twitter.map.fastly.net
+poiassets.mappy.net
+pointlocation.ffvoile.fr
 viamichelin.fr

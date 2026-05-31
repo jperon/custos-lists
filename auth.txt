@@ -75,3 +75,5 @@ login.vk.com
 ms-sso.copilot.com
 newassets.hcaptcha.com
 passport.twitch.tv
+prda.aadg.msidentity.com
+proton.me

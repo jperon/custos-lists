@@ -5,3 +5,5 @@ dca.sg.fr
 gva.et-gv.fr
 histovec.interieur.gouv.fr
 lettres-histoire-geographie.enseigne.ac-lyon.fr
+portailavenirs.ingeus.fr
+public.iroquois.fr

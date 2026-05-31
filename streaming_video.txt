@@ -49,3 +49,7 @@ manifest-gcp-us-east4-vop1.edgemv.mux.com
 manifest.googlevideo.com
 netsport.eurosport.io
 passport.twitch.tv
+player.ausha.co
+player.twitch.tv
+pro.jokerly.com
+prod.us-east-1.sonar.prime-video.amazon.dev

@@ -42,3 +42,7 @@ l.sudouest.fr
 madame.lefigaro.fr
 moncompte.lexpress.fr
 netsport.eurosport.io
+plumetismagazine.net
+profil.lindependant.fr
+profil.sudouest.fr
+public-api.wordpress.com

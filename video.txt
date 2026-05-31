@@ -1,1 +1,10 @@
 pfr1-collabhubrtc-split.rtc.trafficmanager.net
+play.itunes.apple.com
+player.aniview.com
+player.digiteka.com
+player.fabster.com
+player.pepsia.com
+player.stats.live-video.net
+players.brightcove.net
+pro.jokerly.com
+prod.us-east-1.sonar.prime-video.amazon.dev

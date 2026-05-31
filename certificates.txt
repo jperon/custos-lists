@@ -9,3 +9,4 @@ ocsp.r2m04.amazontrust.com
 ocsp.trust-provider.com
 ocsp2.apple.com
 ocsp2.g.aaplimg.com
+pki.intel.com

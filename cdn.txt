@@ -659,6 +659,7 @@ omapp.b-cdn.net
 opengraph.githubassets.com
 osxapps.itunes.g.aaplimg.com
 p-frpa00.kxcdn.com
+p.typekit.net
 p36-buy-eu.itunes.v.aaplimg.com
 p43-buy-eu.itunes.v.aaplimg.com
 pancake.g.aaplimg.com
@@ -668,3 +669,19 @@ paypal-h3-dynamic-cdn.map.fastly.net
 pbs.twimg.com.cdn.cloudflare.net
 pcs.bamgrid.com
 pdp.aliexpress-media.com
+platform-cdn.sharethis.com
+platform-cs-edge-irl1.adobe.io
+platform-cs-edge-va6.adobe.io
+platform-cs-edge.adobe.io
+platform-cs-irl1.adobe.io
+platform.twitter.map.fastly.net
+players.brightcove.net
+poiassets.mappy.net
+polyfill-fastly.io
+pp.userapi.com
+prdsurvey.b-cdn.net
+prod.taos-platsvcs.trafficmanager.net
+product-gallery.cloudinary.com
+production.cloudfront.docker.com
+public.slidesharecdn.com
+publicassets.cdn-apple.g.aaplimg.com

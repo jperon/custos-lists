@@ -88,3 +88,5 @@ pcs.bamgrid.com
 pds-prod.v.aaplimg.com
 photos-voitures.fiches-auto.fr
 pictures.abebooks.com
+product-gallery.cloudinary.com
+publicassets.cdn-apple.g.aaplimg.com

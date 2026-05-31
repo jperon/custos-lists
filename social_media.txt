@@ -90,3 +90,12 @@ pbs.twimg.com
 pbs.twimg.com.cdn.cloudflare.net
 pinafore.social
 pixel-config.reddit.com
+platform-api.sharethis.com
+platform-cdn.sharethis.com
+platform.linkedin.com
+platform.twitter.com
+platform.twitter.map.fastly.net
+platform.x.com
+player.twitch.tv
+pokitto.com
+pp.userapi.com
