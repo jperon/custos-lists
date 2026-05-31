@@ -99,3 +99,4 @@ platform.x.com
 player.twitch.tv
 pokitto.com
 pp.userapi.com
+reddit.map.fastly.net

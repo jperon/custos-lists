@@ -40,4 +40,8 @@ opensearch-revgeocode-prd.borg-p.nw.ops.here.com
 platform.twitter.map.fastly.net
 poiassets.mappy.net
 pointlocation.ffvoile.fr
+renderer-row.waze.com
+revgeocode.search.hereapi.com
+router.hereapi.com
+routingols-prd.borg-p.nw.ops.here.com
 viamichelin.fr

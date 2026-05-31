@@ -13,3 +13,5 @@ opengraph.githubassets.com
 packagecontrol.github.io
 protomaps.github.io
 public-api.wordpress.com
+repo.nextdns.io
+repo.whatap-browser-agent.io

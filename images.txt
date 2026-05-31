@@ -91,3 +91,5 @@ pictures.abebooks.com
 product-gallery.cloudinary.com
 publicassets.cdn-apple.g.aaplimg.com
 q-xx.bstatic.com
+res.cloudinary.com
+resc.cloudinary.com.cdn.cloudflare.net

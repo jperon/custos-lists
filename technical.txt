@@ -730,6 +730,11 @@ public-ethos551-prod-va6-86ff40ecc44ad93b.elb.us-east-1.amazonaws.com
 public-ethos602-prod-irl1-481ed62a59a7e9cd.elb.eu-west-1.amazonaws.com
 public.rive.app
 publicsuffix.org
+r.info2.ca-technologies.fr
+r.infopro.fr
+reachit.lenovo.com
+rna-resource.acrobat.com
+rna-v2-resource.acrobat.com
 sanasecurity.com
 verisign.com
 windows.com

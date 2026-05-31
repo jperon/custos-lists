@@ -154,3 +154,5 @@ params.wps.com
 plugin-server.wps.com
 qing.wps.cn
 qr.wps.cn
+recent.svc.cloud.microsoft
+roaming.wps.cn

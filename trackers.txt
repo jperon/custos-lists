@@ -192,3 +192,8 @@ player.stats.live-video.net
 poll.gras.samsungdm.com
 prdsurvey.b-cdn.net
 prebid.admatic.de
+r.bing.com
+raven-edge.aditude.io
+ref.lamartinieregroupe.com
+region1.app-analytics-services-att.com
+region1.app-measurement.com

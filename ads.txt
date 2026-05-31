@@ -92,3 +92,6 @@ pixel.quantcount.com
 player.aniview.com
 popin.wibilong.com
 prebid.admatic.de
+r.bing.com
+raven-edge.aditude.io
+render.api.affilizz.com

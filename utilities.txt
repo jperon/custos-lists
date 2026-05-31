@@ -48,3 +48,4 @@ particulier.edf.fr
 puc-prov.keyyo.com
 pulsesservice.com
 qrco.de
+results.speedtest.net

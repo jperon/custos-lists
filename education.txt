@@ -95,3 +95,4 @@ ps.calameoassets.com
 public.slidesharecdn.com
 quillbot.com
 quillbot.scribbr.fr
+renass.unistra.fr

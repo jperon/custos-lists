@@ -33,3 +33,4 @@ mmg.whatsapp.net
 mmx-ds.cdn.whatsapp.net
 nexus-websocket-a.intercom.io
 pps.whatsapp.net
+rbm.goog

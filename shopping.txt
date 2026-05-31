@@ -124,3 +124,4 @@ picclick.fr
 prod.transcript.decathlon.net
 queue.fnac.com
 queue.fnacdarty.com
+register.windsurf.com

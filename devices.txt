@@ -56,5 +56,6 @@ mydjiflight.dji.com
 nc-pod10-smp-device.apple.com
 play.samsungcloud.com
 poll.gras.samsungdm.com
+reachit.lenovo.com
 remote-care.eu
 remote-service-pf.com
