@@ -58,3 +58,8 @@ alt2-mtalk.google.com
 alt3-mtalk.google.com
 api.wonderpush.com
 app.pushweb.co
+by.wonderpush.com.cdn.cloudflare.net
+cdn-push.sprkly.me
+cdn.by.wonderpush.com
+drws.batch.com
+notifpush.com

@@ -1,3 +1,10 @@
 api-demo-proxy.deepl.com
 assets.quillbot.com
+c541d937-62c6-4bd7-b110-dcf4ed6aa7c8.gjirafa.ai
+dc-genai-access-provisioning-api.adobe.io
 deepl.com
+ios.chat.openai.com
+libs.quillbot.com
+m-prod-c3e4c3544795.writefull.ai
+ms-sso.copilot.com
+nlp.writefull.ai

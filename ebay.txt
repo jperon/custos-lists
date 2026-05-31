@@ -1,3 +1,4 @@
+dualstack.ebayimg-0.map.fastly.net
 ebay.co.uk
 ebay.com
 ebay.fr
@@ -5,5 +6,6 @@ ebaydesc.com
 ebaydesc.fr
 ebayimg.com
 ebaystatic.com
+ebaystatic.ebay.map.fastly.net
 leboncoin.fr
 priceminister.com

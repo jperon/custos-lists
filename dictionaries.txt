@@ -1,6 +1,10 @@
 abonnement.larousse.fr
 admin.lalanguefrancaise.com
+canadienfrancais.org
+contenu.vitrinelinguistique.oqlf.gouv.qc.ca
 dicolatin.com
 larousse.fr
+leconjugueur.lefigaro.fr
+lepeupledesmots.com
 lexilogos.com
 wiktionary.org

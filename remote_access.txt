@@ -1,2 +1,6 @@
 admin.rustdesk.com
 api.rustdesk.com
+cdn.devolutions.net
+devolutions.net
+download.wireguard.com
+log.tailscale.io

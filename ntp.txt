@@ -14,3 +14,5 @@
 3.nixos.pool.ntp.org
 3.pool.ntp.org
 3.ubnt.pool.ntp.org
+clock.isc.org
+ntp.msn.com

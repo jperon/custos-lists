@@ -1,6 +1,11 @@
 ajax.googleapis.com
 api-demo-proxy.deepl.com
 assets.quillbot.com
+bd.lngtd.com
+bonpatron.com
+it.lngtd.com
+linguee-lb.linguee.com
+lngtd.com
 online-translator.com
 promt.com
 reverso.net

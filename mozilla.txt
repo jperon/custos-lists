@@ -3,9 +3,15 @@ ads.mozilla.org
 api.accounts.firefox.com
 archive.mozilla.org
 firefox.com
+mozilla-download.fastly-edge.com
+mozilla-ohttp.fastly-edge.com
 mozilla.c3sl.ufpr.br
+mozilla.cloudflare-dns.com
 mozilla.com
+mozilla.map.fastly.net
 mozilla.net
 mozilla.org
 mozillamessaging.com
+normandy.tombstone.experimenter.prod.webservices.mozgcp.net
+ohttp-merino.mozilla.fastly-edge.com
 thunderbird.net

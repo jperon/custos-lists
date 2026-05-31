@@ -18,4 +18,10 @@ avg.cz
 avg.fr
 avg.nation.com
 avgfree.com
+cdn.mackeeper.com
+cdnm.trusteer.com
 geo.kaspersky.com
+malware-filter.gitlab.io
+malware-filter.pages.dev
+mkapi.mackeeper.com
+mupdates-de.trusteer.com

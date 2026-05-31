@@ -16,5 +16,12 @@ api.mapbox.com
 api.maptiler.com
 api.openrouteservice.org
 api.wego.hereapi.com
+bikerouter.de
+data-ios.flitsmeister.app
 geopf.fr
 geoportail.gouv.fr
+gs-loc.apple.com
+gsp57-ssl-revgeo.ls.apple.com
+inbox-row.waze.com
+lookahead.flitsmeister.app
+lookup.search.hereapi.com

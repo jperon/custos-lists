@@ -3,3 +3,11 @@
 1p8hbkodagp4qn9n6vbogobmcip7d25iimf13na8umll395jqc6n.cdn.web-ide.gitlab-static.net
 answers.launchpad.net
 archives.docs.gitlab.com
+cdn.sheetjs.com
+docs.gitlab.com
+gitlab.com
+homeding.github.io
+joe-antognini.github.io
+malware-filter.gitlab.io
+opengraph.githubassets.com
+packagecontrol.github.io

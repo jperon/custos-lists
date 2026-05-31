@@ -4,6 +4,7 @@ ap-gew4.spotify.com
 ap-guc3.spotify.com
 atc.spotify.map.fastly.net
 audio4-ak-spotify-com.akamaized.net
+musicstatus.itunes.apple.com
 scdn.co
 spotify.com
 spotifycdn.com

@@ -1,2 +1,13 @@
 api.touristicmaps.com
 assets.clickandboat.com
+blog.clickandboat.com
+cdn-insights.bookingkit.com
+cdn.samboat.com
+cdn.samboat.fr
+clickandboat.zendesk.com
+eu5.bookingkit.de
+forum-kayak.fr
+helioscroisiere.fr
+hozana.org
+insights.bookingkit.net
+le-spot-nautique.bzh

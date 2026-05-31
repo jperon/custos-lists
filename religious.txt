@@ -3,4 +3,14 @@ aleteia.go-vip.net
 api.ices.fr
 api.laportelatine.org
 api.laprocure.com
+bible.fandom.com
+biblecontent.youversionapi.com
+bmbe.liturgiaetmusica.com
+boutique.fssp.fr
+caritas-revue-pays-reel.com
+cath.ch
+catholiquedefrance.fr
+catholiquetoujours.com
+delivery.mariedenazareth.com
 documentacatholicaomnia.eu
+forms.mariedenazareth.com

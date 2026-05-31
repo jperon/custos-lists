@@ -1,0 +1,11 @@
+c.pki.goog
+o.pki.goog
+ocsp.digicert.cn
+ocsp.godaddy.com
+ocsp.intel.com
+ocsp.r2m01.amazontrust.com
+ocsp.r2m03.amazontrust.com
+ocsp.r2m04.amazontrust.com
+ocsp.trust-provider.com
+ocsp2.apple.com
+ocsp2.g.aaplimg.com

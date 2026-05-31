@@ -1,3 +1,5 @@
+bible.fandom.com
+biblecontent.youversionapi.com
 biblehub.net
 biblemenus.com
 saintebible.com

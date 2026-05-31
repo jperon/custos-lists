@@ -1,7 +1,17 @@
 account.windy.com
 api.openweathermap.org
 app.maree.info
+embed.windy.com
+forecast.lemonde.fr
+i.windy.com
+img.windy.com
+ims-s.windy.com
+ims.windy.com
+maree.info
+marine.meteoconsult.fr
 meteociel.fr
 meteofrance.com
 meteosuisse.admin.ch
 meteosuisse.ch
+node-i.windy.com
+node.windy.com

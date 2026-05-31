@@ -18,6 +18,7 @@ coursera.org
 decision.flagship.io
 digicert.com
 dl.airtable.co
+econe.fsspx.org
 ediser.com
 education-securite-routiere.fr
 fr.coursera.org
@@ -33,6 +34,7 @@ ionos.fr
 js.hsforms.net
 letsencrypt.org
 maxcdn.bootstrapcdn.com
+my.letudiant.fr
 ocsp.comodoca4.com
 ocsp.digicert.com
 ocsp.pki.goog
