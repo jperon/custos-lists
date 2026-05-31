@@ -81,4 +81,17 @@ api.apple-cloudkit.fe2.apple-dns.net
 api.apps.apple.com
 api.smoot.apple.com
 apis.apple.map.fastly.net
+app-events.infoapps.apple.com
+app-site-association.g.aaplimg.com
+apple-native-relay.apple.com
+apple-native-relay.mask.apple-dns.net
+apple-relay.fastly-edge.com
+apple.com
+appleid.apple.com
+apps.apple.com
+apps.itunes-nocookie.com
+apptrailers-ssl.itunes.apple.com
+apptrailers.itunes.apple.com
+apptrailers.itunes.g.aaplimg.com
+assets-mercury.v.aaplimg.com
 push.apple.com

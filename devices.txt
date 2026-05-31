@@ -19,7 +19,10 @@ api.hpsmart.com
 api.knox-matrix.com
 api.samsungcloud.com
 api.samsungconsent.com
+app-distribution-global.djicdn.com
+app-h5.dji.com
 appassets.androidplatform.net
+apple.com
 argo.svcmot.com
 remote-care.eu
 remote-service-pf.com

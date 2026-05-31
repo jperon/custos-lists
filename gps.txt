@@ -1,4 +1,8 @@
 .ign.fr
+a.tile-cyclosm.openstreetmap.fr
+a.tile.openstreetmap.de
+a.tile.openstreetmap.fr
+a.tile.opentopomap.org
 account.flitsmeister.app
 adsassets.waze.com
 api-geocode.mappy.net

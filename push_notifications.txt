@@ -57,3 +57,4 @@ aks-prod-westeurope.access-point.cloudmessaging.edge.microsoft.com
 alt2-mtalk.google.com
 alt3-mtalk.google.com
 api.wonderpush.com
+app.pushweb.co

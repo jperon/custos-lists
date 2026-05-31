@@ -1,5 +1,6 @@
 account.windy.com
 api.openweathermap.org
+app.maree.info
 meteociel.fr
 meteofrance.com
 meteosuisse.admin.ch

@@ -4,3 +4,4 @@ analytics.openedition.org
 antbase.fr
 api.academia.edu
 ar.vittascience.com
+attachments.academia-assets.com

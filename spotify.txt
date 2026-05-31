@@ -2,6 +2,7 @@ aet.spotify.com
 ap-gew1.spotify.com
 ap-gew4.spotify.com
 ap-guc3.spotify.com
+atc.spotify.map.fastly.net
 audio4-ak-spotify-com.akamaized.net
 scdn.co
 spotify.com

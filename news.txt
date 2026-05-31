@@ -5,3 +5,7 @@ api-graphql.lefigaro.fr
 api.msn.com
 asset.lemde.fr
 assets-decodeurs.lemonde.fr
+assets.eurosport.io
+assets.ladepeche.fr
+assets.leparisien.fr
+assets.lindependant.fr

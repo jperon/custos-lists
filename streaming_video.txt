@@ -7,4 +7,9 @@ api.skaping.com
 api.vimeo.com
 apicache-k8s.caast.tv
 appconfigs.disney-plus.net
+apptrailers-ssl.itunes.apple.com
+apptrailers.itunes.apple.com
+assets-jpcust.jwpsrv.com
 assets.digiteka.com
+assets.twitch.tv
+atlas.ngtv.io

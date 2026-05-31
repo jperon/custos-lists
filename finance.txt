@@ -9,7 +9,10 @@ api.revolut.com
 api.stripe.com
 apination.redotpay.com
 apiv2.redotpay.com
+app.secure.particuliers.societegenerale.mobi
 aqueduct.revolut.com
+assets.revolut.com
+assets.revolut.com.cdn.cloudflare.net
 finance.com
 lapostefinance.fr
 paypal.com

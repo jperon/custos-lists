@@ -44,3 +44,4 @@ api16-access-ttp.tiktokpangle.us
 app.adaway.org
 ashburn.performaized.com
 assets.digiteka.com
+assets.sparteo.com

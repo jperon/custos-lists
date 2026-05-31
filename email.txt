@@ -7,8 +7,15 @@ accounts.google.fr
 acdcatm.outlook.mira.tm.svc.cloud.microsoft
 ad.mail.ru
 apimail.sfr.fr
+app-rsrc.getbee.io
+app.mailerlite.com
+app.mailjet.com
 aps.google.com
 assets.brevo.com
+assets.mailerlite.com
+atm.autodiscover.mira.tm.svc.cloud.microsoft
+atm.eop.mira.tm.svc.cloud.microsoft
+atm.outlook.mira.tm.svc.cloud.microsoft
 configuration.apple.com
 contacts.google.com
 d2js2viceajwla.cloudfront.net

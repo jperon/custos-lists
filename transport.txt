@@ -2,6 +2,7 @@ aerocar.fr
 api-front.feuvert.fr
 api-iti.mappy.net
 api.appexnw.com
+auth.hubprotransport.com
 cff.ch
 eurolines.fr
 faurevercors.fr

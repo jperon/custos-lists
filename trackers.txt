@@ -83,6 +83,9 @@ api.rudderstack.com
 api.usercentrics.eu
 apm.micstatic.com
 app-analytics-services.com
+app-measurement.com
+app.pushweb.co
+apps.bazaarvoice.com
 ariane.abtasty.com
 ashburn.performaized.com
 assets.adobedtm.com

@@ -1,6 +1,7 @@
 0d0894d843e6.w.hcaptcha.com
 2103cdb12dd3.w.hcaptcha.com
 9dfde8a343c0.w.hcaptcha.com
+a.privatelink.msidentity.com
 aadcdn.msauth.net
 aadcdn.msftauth.net
 aadcdn.msftauthimages.net
@@ -33,4 +34,7 @@ api.hcaptcha.com
 api.myaccount.microsoft.com
 api.pwnedpasswords.com
 api2.hcaptcha.com
+appleid.apple.com
+auth.fandom.com
+auth.hubprotransport.com
 login.live.com

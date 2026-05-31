@@ -1,5 +1,6 @@
 ajax.googleapis.com
 api-demo-proxy.deepl.com
+assets.quillbot.com
 online-translator.com
 promt.com
 reverso.net

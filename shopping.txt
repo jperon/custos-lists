@@ -39,7 +39,10 @@ api.trustoo.io
 apicache-k8s.caast.tv
 aplus.aliexpress.com
 aplus.aliexpress.com.gds.alibabadns.com
+apps.apple.com
+apps.mageworx.com
 asset.conrad.com
 assets-cms.legallais.com
 assets.alicdn.com
 assets.aliexpress-media.com
+assets.prestashop3.com

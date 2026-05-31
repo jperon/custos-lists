@@ -1,2 +1,3 @@
 api-demo-proxy.deepl.com
+assets.quillbot.com
 deepl.com

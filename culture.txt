@@ -5,3 +5,6 @@ apollo.senscritique.com
 artcerep.files.wordpress.com
 artcerep.wordpress.com
 assets.allocine.fr
+assets.genius.com
+ateliermedieval.a.t.pic.centerblog.net
+ateliermedieval.centerblog.net

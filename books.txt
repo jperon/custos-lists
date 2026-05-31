@@ -9,6 +9,7 @@ api.perlego.com
 api.scribd.com
 apollo.archive.org
 archive.org
+assets.yumpu.com
 chapitre.com
 chapitrepro.com
 clz.com

@@ -10,3 +10,7 @@ abs.twimg.com.cdn.cloudflare.net
 ae-pic-a1.aliexpress-media.com
 agent-logos.storage.googleapis.com
 api.gallery.intl.miui.com
+assets-mercury.v.aaplimg.com
+assets.pinterest.com
+ateliermedieval.a.t.pic.centerblog.net
+au.pinterest.com

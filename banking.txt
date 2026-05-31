@@ -4,7 +4,10 @@ api.cmb.fr
 api.mercadopago.com
 api.revolut.com
 apiv2.redotpay.com
+app.secure.particuliers.societegenerale.mobi
 aqueduct.revolut.com
+assets.revolut.com
+assets.revolut.com.cdn.cloudflare.net
 bnp-privacy.my.onetrust.com
 bnpparibas.net
 f01.inbenta.com

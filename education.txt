@@ -15,3 +15,6 @@ api.perlego.com
 api.supercoloring.com
 ar.vittascience.com
 archive.org
+assets.kartable.fr
+assets.quillbot.com
+attachments.academia-assets.com

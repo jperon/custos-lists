@@ -6,3 +6,4 @@ api-emea.flightproxy.teams.microsoft.com
 api.cc.skype.com
 api.flightproxy.skype.com
 api.whatsapp.net
+app.element.io

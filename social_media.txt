@@ -37,3 +37,7 @@ api16-access-ttp-b.tiktokpangle-b.us
 api16-access-ttp-b.tiktokpangle.us
 api16-access-ttp.tiktokpangle-b.us
 api16-access-ttp.tiktokpangle.us
+app.element.io
+assets.pinterest.com
+assets.tumblr.com
+au.pinterest.com

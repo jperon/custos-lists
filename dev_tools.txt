@@ -3,6 +3,8 @@
 answers.launchpad.net
 aoljaagvkacxkbtnmeab.supabase.co
 api.squareline.io
+app.devin.ai
+apps.mageworx.com
 archives.docs.gitlab.com
 ars.adobe.io
 artifactregistry.asia-east1.rep.googleapis.com
