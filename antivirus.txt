@@ -1,5 +1,3 @@
-77013.n.trusteer.com
-account.mackeeper.com
 akamai.avg.com.edgesuite.net
 akamai.avg.cz.edgesuite.net
 akamai.grisoft.com
@@ -9,8 +7,6 @@ akamai.grisoft.cz.edgesuite.net
 akamai.net
 akamaitechnologies.com
 analytics.apis.mcafee.com
-analytics.avcdn.net
-api-ne.mackeeper.com
 avast.com
 avcdn.net
 avg.com
@@ -18,13 +14,10 @@ avg.cz
 avg.fr
 avg.nation.com
 avgfree.com
-cdn.mackeeper.com
-cdnm.trusteer.com
 geo.kaspersky.com
+mackeeper.com
 malware-filter.gitlab.io
 malware-filter.pages.dev
-mkapi.mackeeper.com
-mupdates-de.trusteer.com
 sv.symcb.com
 sv.symcd.com
-updater.mackeeper.com
+trusteer.com

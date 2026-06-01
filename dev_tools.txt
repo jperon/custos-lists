@@ -1,12 +1,12 @@
 02ttb3h2d9qluvemu2ptj69iilqravfag8qtgakhusoimht9quln.cdn.web-ide.gitlab-static.net
 0otjirtlv9t62ubq636flb676agr35uv8antvaf2ue6ous58k5n3.cdn.web-ide.gitlab-static.net
+adobe.io
 answers.launchpad.net
 aoljaagvkacxkbtnmeab.supabase.co
 api.squareline.io
 app.devin.ai
 apps.mageworx.com
 archives.docs.gitlab.com
-ars.adobe.io
 artifactregistry.asia-east1.rep.googleapis.com
 artifactregistry.asia-east2.rep.googleapis.com
 artifactregistry.asia-northeast1.rep.googleapis.com
@@ -73,9 +73,6 @@ in.appcenter.ms
 intake.dev.pbstck.com
 jetpack.wordpress.com
 kendo.cdn.telerik.com
-lcs-cops.adobe.io
-lcs-mobile-cops.adobe.io
-lcs-ulecs.adobe.io
 main.vscode-cdn.net
 odrs.gnome.org
 packagecontrol.github.io

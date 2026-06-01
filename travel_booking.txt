@@ -1,9 +1,8 @@
 api.touristicmaps.com
-assets.clickandboat.com
-blog.clickandboat.com
 cdn-insights.bookingkit.com
 cdn.samboat.com
 cdn.samboat.fr
+clickandboat.com
 clickandboat.zendesk.com
 eu5.bookingkit.de
 forum-kayak.fr
@@ -14,5 +13,4 @@ le-spot-nautique.bzh
 pro.tourismebretagne.bzh
 public.api.youbook.travel
 reginasailing.com
-static1.clickandboat.com
 tss.samboat.fr

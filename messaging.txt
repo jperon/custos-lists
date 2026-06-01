@@ -9,7 +9,6 @@ api.whatsapp.net
 app.element.io
 bor1fk18-android.mobile-messenger.intercom.com
 cdn.brevo.com
-cdn.discordapp.com
 cdn3.signal.org
 chat.revolut.com
 chat.signal.org
@@ -26,8 +25,6 @@ fp.fr.sfr.rcs.telephony.goog
 g.whatsapp.net
 graph.whatsapp.com
 graph.whatsapp.net
-grpc.chat.signal.org
-matrix-client.matrix.org
 matrix.org
 mmg.whatsapp.net
 mmx-ds.cdn.whatsapp.net

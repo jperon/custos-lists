@@ -1,12 +1,6 @@
-aet.spotify.com
-ap-gew1.spotify.com
-ap-gew4.spotify.com
-ap-guc3.spotify.com
-atc.spotify.map.fastly.net
 audio4-ak-spotify-com.akamaized.net
+fastly.net
 musicstatus.itunes.apple.com
 scdn.co
-scdnco.spotify.map.fastly.net
 spotify.com
 spotifycdn.com
-tls13.spotifycdn.map.fastly.net

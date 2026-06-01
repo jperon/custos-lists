@@ -15,9 +15,7 @@ fonts.gstatic.com
 hangouts.googleapis.com
 lh3.googleusercontent.com
 meet.google.com
-meetings.clients6.google.com
 meetings.googleapis.com
-stream.meet.google.com
 teams-ring.msedge.net
 teams.cloud.microsoft
 www.gstatic.com

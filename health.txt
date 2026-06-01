@@ -1,6 +1,4 @@
-a.doctolib.fr
-api.doctolib.fr
-assets.doctolib.fr
+doctolib.fr
 fitwill.app
 isabelledevaugelas-nutrition.fr
 ontology.health.apple.com

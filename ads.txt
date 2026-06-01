@@ -1,11 +1,5 @@
-0.stg.html-load.com
 0bab25d156.sdkmedia.net
-1.stg.html-load.com
 1x1.a-mo.net
-2.stg.html-load.com
-3.stg.html-load.com
-4.stg.html-load.com
-5.stg.html-load.com
 8512b548-2306-4976-a576-a880f2c35e4e.edge.permutive.app
 a.amxrtb.com
 a.omappapi.com
@@ -32,8 +26,6 @@ antenna.ayads.co
 api-ad-adapter.wps.com
 api.ad.intl.xiaomi.com
 api.btloader.com
-api.heliumads.com
-api.id5-sync.com
 api.omappapi.com
 api.pbxai.com
 api.stores.eu-south-2.prod.paets.advertising.amazon.dev
@@ -41,7 +33,6 @@ api16-access-ttp-b.tiktokpangle-b.us
 api16-access-ttp-b.tiktokpangle.us
 api16-access-ttp.tiktokpangle-b.us
 api16-access-ttp.tiktokpangle.us
-app.adaway.org
 ashburn.performaized.com
 assets.digiteka.com
 assets.sparteo.com
@@ -51,7 +42,6 @@ cdn-3s.mobvista.com
 cdn-a.yieldlove.com
 cdn.confiant-integrations.net
 cdn.elasticad.net
-cdn.heliumads.com
 cdn.liftoff-creatives.io
 coreads.pmdstatic.net
 cpm.vistarsagency.com
@@ -64,7 +54,8 @@ dsp.outbrainimg.com
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 euw1.s.seedtag.com
-gtrack.kueezrtb.com
+heliumads.com
+html-load.com
 iadsdk.apple.com
 ib.adnxs-simple.com
 id.a-mx.com
@@ -73,7 +64,7 @@ id.hadron.ad.gt
 id5-sync.com
 js-eu1.hs-banner.com
 js-eu1.hsadspixel.net
-js.heliumads.com
+kueezrtb.com
 lf-static.tiktokpangle-cdn-us.com
 match.aditude.cloud
 measureadv.com
@@ -84,7 +75,6 @@ nl-gcp-ad-track-sdk-europe-west4-c.mtgglobals.com
 op.lm-manleads.com
 optchk.ayads.co
 orbidder.otto.de
-otrack.kueezrtb.com
 oxi64.com
 oxi90.com
 partnerlinks.io
@@ -108,7 +98,6 @@ sync.aniview.com
 sync.connectad.io
 sync.cootlogix.com
 sync.itunes.apple.com
-sync.kueezrtb.com
 sync.missena.io
 sync.omni-dex.io
 sync.pmbmonetize.live
@@ -121,7 +110,6 @@ t.seedtag.com
 tag.beyable.com
 tags.refinery89.com
 tmzr.themoneytizer.fr
-tr.iadsdk.apple.com
 trackquantx.adux.com
 tripleperformance.fr
 try.abtasty.com

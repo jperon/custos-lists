@@ -1,13 +1,11 @@
 accounts.google.com
 adwstats.com
 aep-saint-joseph-des-carmes.typingclub.com
-api.glose.com
 browser.sentry-cdn.com
 cdn-eu.realytics.net
 cdn.embed.ly
 cdn.jsdelivr.net
 cdn.polyfill.io
-cdn.reseau-canope.fr
 cdn.segment.com
 cdnediser.com
 cloudflare.com
@@ -21,7 +19,6 @@ dl.airtable.co
 econe.fsspx.org
 ediser.com
 education-securite-routiere.fr
-fr.coursera.org
 glose.com
 glose.education
 google-analytics.com
@@ -36,7 +33,6 @@ letsencrypt.org
 maxcdn.bootstrapcdn.com
 my.letudiant.fr
 ocsp.comodoca4.com
-ocsp.digicert.com
 ocsp.pki.goog
 openh264.org
 packweb2.com

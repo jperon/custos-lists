@@ -1,3 +1,4 @@
+free.fr
 pbjs.sskzlabs.com
 pbs-cs.yellowblue.io
 pbs-front.mediasquare.fr
@@ -7,13 +8,6 @@ pbsj.bricks-co.com
 pebed.dm-event.net
 pepin.padlet.com
 perf.keyyo.net
-perso105-g5.free.fr
-perso109-g5.free.fr
-perso110-g5.free.fr
-perso115-g5.free.fr
-perso129-g5.free.fr
-perso130-g5.free.fr
-perso171-g5.free.fr
 perspective.orange-business.com
 pf26-web.online.net
 pgeraldo1.substack.com
@@ -30,4 +24,3 @@ u.jimcdn.com
 username-ccm-206-118.wixsite.com
 webassist.fr
 www.multimania.com
-www.richard-leray.com

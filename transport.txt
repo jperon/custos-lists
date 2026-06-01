@@ -2,14 +2,11 @@ aerocar.fr
 api-front.feuvert.fr
 api-iti.mappy.net
 api.appexnw.com
-auth.hubprotransport.com
-ca.lacentrale.fr
 cdn.blablacar.com
 cdn.samboat.com
 cdn.samboat.fr
 cff.ch
 data-ios.flitsmeister.app
-dd.lacentrale.fr
 eurolines.fr
 faurevercors.fr
 grenoble-airport.com
