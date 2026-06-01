@@ -2,6 +2,8 @@ aerocar.fr
 api-front.feuvert.fr
 api-iti.mappy.net
 api.appexnw.com
+api.openrouteservice.org
+blablacar.fr
 cdn.blablacar.com
 cdn.samboat.com
 cdn.samboat.fr

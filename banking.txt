@@ -8,10 +8,13 @@ bnp-privacy.my.onetrust.com
 bnpp-3ds-vdm.as8677.net
 bnpp-3ds-vdm.wlp-acs.com
 bnpparibas.net
+boursorama-banque.com
 ca.bmoasset.com
 cdn.revolut.com.cdn.cloudflare.net
 cmb.fr
+connexion-mabanque.bnpparibas
 credit-agricole.fr
+creditmutuel.fr
 f01.inbenta.com
 hellobank.fr
 m.stripe.com

@@ -13,6 +13,7 @@ app.element.io
 assets.tumblr.com
 babelio.com
 cdninstagram.com
+connect.facebook.net
 discordapp.com
 dualstack.pinterest.map.fastly.net
 editionsedilys.blogspot.com

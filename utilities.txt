@@ -9,8 +9,10 @@ api.printfriendly.com
 api.qustodio.com
 api.qwant.com
 api64.ipify.org
+app.usercentrics.eu
 blokada.org
 bouygues.testdebit.info
+cdn.cookielaw.org
 cdn.iubenda.com
 cdn.printfriendly.com
 cdn.privacy-mgmt.com

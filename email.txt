@@ -19,7 +19,10 @@ contacts.google.com
 d2js2viceajwla.cloudfront.net
 dual-s-msedge.net
 ea.pstmrk.it
+email-assoconnect.com
+email.info-assoconnect.com
 email.mg1.substack.com
+emails-assoconnect.com
 eu.mailgun.org
 go2.mailengine1.com
 gstatic.com

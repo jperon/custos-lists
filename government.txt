@@ -1,7 +1,13 @@
+archives.gironde.fr
+archives.le64.fr
+archivesdepartementales.lenord.fr
+archivesenligne.pasdecalais.fr
+archivespasdecalais.fr
 candidat.examens-concours.gouv.fr
 civitas-international.eu
 contenu.vitrinelinguistique.oqlf.gouv.qc.ca
 dca.sg.fr
+earchives.le64.fr
 gva.et-gv.fr
 histovec.interieur.gouv.fr
 lettres-histoire-geographie.enseigne.ac-lyon.fr

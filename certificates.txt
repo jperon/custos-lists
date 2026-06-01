@@ -1,5 +1,6 @@
 amazontrust.com
 c.pki.goog
+digicert.com
 o.pki.goog
 ocsp.digicert.cn
 ocsp.godaddy.com

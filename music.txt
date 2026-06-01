@@ -1,3 +1,4 @@
+deezer.com
 pd.itunes.apple.com
 play.itunes.apple.com
 publishers.edisound.com

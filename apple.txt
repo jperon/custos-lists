@@ -23,6 +23,7 @@ cabana-server.g.aaplimg.com
 caldav.fe2.apple-dns.net
 calendars.fe2.apple-dns.net
 captive.g.aaplimg.com
+cdn-apple.com
 cdn-icloud-content.g.aaplimg.com
 cdn.apple-mapkit.com
 cdn.smoot.g.aaplimg.com

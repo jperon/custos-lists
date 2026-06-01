@@ -1,5 +1,8 @@
 answers.launchpad.net
+bundler.wix-code.com
 cdn.sheetjs.com
+code.jquery.com
+codepen.io
 gitlab-static.net
 gitlab.com
 homeding.github.io

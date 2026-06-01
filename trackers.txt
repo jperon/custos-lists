@@ -84,6 +84,7 @@ cache.consentframework.com
 calameo-beacon.global.ssl.fastly.net
 cdn.matomo.cloud
 clckfltr.com
+click.pstmrk.it
 conviva.com
 counter.lifesitenews.com
 covea.piwik.pro

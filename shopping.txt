@@ -6,6 +6,7 @@
 aaplimg.com
 abonnement.larousse.fr
 acs.aliexpress.us
+agorastore.fr
 alibabadns.com
 alicdn.com
 aliexpress-media.com
@@ -34,9 +35,11 @@ apple.com
 apps.mageworx.com
 assets-cms.legallais.com
 assets.prestashop3.com
+bid.drouot.com
 bid.sparteo.com
 boutique.fssp.fr
 boutique.ina.fr
+bricodepot.fr
 carrefour.fr
 cart-flyin.prod.tds-p.com
 cdn-shop.adafruit.com

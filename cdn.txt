@@ -86,6 +86,7 @@ adobecces.com
 ae1.r04.stem01.par04.fab.netarch.akamai.com
 ae2.r04.leaf02.par04.fab.netarch.akamai.com
 ae4.r02.tor02.par04.fab.netarch.akamai.com
+ag-cdn-production.azureedge.net
 aid-eu.kwcdn.com
 ajax.aspnetcdn.com
 ajax.googleapis.com
@@ -163,6 +164,7 @@ cache.caast.tv
 calameo-beacon.global.ssl.fastly.net
 campaign.services.forecast.sirius.press
 cartodb-basemaps-a.global.ssl.fastly.net
+cc-api-data.adobe.io
 cc-embed.adobe.com
 cclibraries-defaults-cdn.adobe.com
 ccmdls.adobe.com
@@ -203,6 +205,7 @@ cdn.dev.pbstck.com
 cdn.devolutions.net
 cdn.discordapp.com
 cdn.doofinder.com
+cdn.drouot.com
 cdn.elasticad.net
 cdn.elementor.com
 cdn.flagship.io
@@ -218,6 +221,7 @@ cdn.infoconnect.fr
 cdn.iubenda.com
 cdn.jamesnook.com
 cdn.jokerly.com
+cdn.jsdelivr.net
 cdn.ketchjs.com
 cdn.lesnumeriques.com
 cdn.lesnums.com
@@ -239,7 +243,9 @@ cdn.poool.fr
 cdn.prepare.eu.eu-south-2.iris.apx.amazon.dev
 cdn.printfriendly.com
 cdn.privacy-mgmt.com
+cdn.rawgit.com
 cdn.revolut.com.cdn.cloudflare.net
+cdn.rudderlabs.com
 cdn.samboat.com
 cdn.samboat.fr
 cdn.scanmanga.eu
@@ -261,7 +267,10 @@ cdndirector.dailymotion.com
 cdndirector.dailymotion.com.cdn.cloudflare.net
 cdnfw-feuvert.feuvert.fr
 cdninstagram.com
+cdnjs.cloudflare.com
 cdnm.trusteer.com
+cdnsi.e-i.com
+cfl.dropboxstatic.com
 chat.revolut.com.cdn.cloudflare.net
 checkoutshopper-live.cdn.adyen.com
 chimpstatic.com
@@ -300,6 +309,7 @@ dualstack.osff.map.fastly.net
 dualstack.pinterest.map.fastly.net
 dualstack.twimg.twitter.map.fastly.net
 e-0014.e-msedge.net
+e-cdn-files.dzcdn.net
 e1vn6qa96e-1.algolianet.com
 eastus1-mediap.svc.ms
 ebaystatic.ebay.map.fastly.net
@@ -309,6 +319,7 @@ edge.gycpi.b.yahoodns.net
 edgee.map.fastly.net
 edgesuite.net
 ekladata.com
+ekr.zdassets.com
 email-static.useinsider.com
 emailsignature.trustpilot.com
 endpoint.edgemv.orastreaming.net

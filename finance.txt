@@ -9,6 +9,7 @@ app.secure.particuliers.societegenerale.mobi
 assets.revolut.com.cdn.cloudflare.net
 b.stripecdn.com
 bcef.dcrm.bnpparibas.com
+boursorama.com
 c.4dex.io
 ca.bmoasset.com
 cdn.almapay.com
@@ -17,6 +18,7 @@ cdn.revolut.com.cdn.cloudflare.net
 client.cardinaltrusted.com
 donorbox.org
 epargnefacile.net
+fiducial-office-solutions.fr
 finance.com
 goldbroker.com
 js.recurly.com

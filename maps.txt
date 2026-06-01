@@ -11,6 +11,7 @@ api.wego.hereapi.com
 autosuggest.search.hereapi.com
 b.tile.opentopomap.org
 bikerouter.de
+calculitineraires.fr
 cdn.apple-mapkit.com
 deepstatemap.live
 ecn.dev.virtualearth.net

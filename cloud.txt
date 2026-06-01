@@ -1,5 +1,6 @@
 0.d0894d843e6.w.hcaptcha.com
 02eotn7vptg6-6316b1.test.nextdns.io
+1and1.fr
 205516-ipv4v6.farm.dprodmgd104.aa-rt.sharepoint.com.dual-spo-0005.spo-msedge.net
 205519-ipv4v6.farm.dprodmgd104.aa-rt.sharepoint.com.dual-spo-0005.spo-msedge.net
 37er19htfd.execute-api.us-east-1.amazonaws.com
@@ -32,8 +33,10 @@ api.groq.com
 api.onedrive.com
 api.webxtsvc.microsoft.com
 apidata.googleusercontent.com
+app-agorastore-api-vnext-prod-westeu-001.azurewebsites.net
 appconfig-svc.s3.us-west-2.amazonaws.com
 apps.nextcloud.com
+apps.prn.ovh
 arc.trafficmanager.net
 assets.dictivatted-foothers.cloud
 assets.jimstatic.com
@@ -76,12 +79,15 @@ cdn.office.net
 cdn.opecloud.com
 cdn.plot.ly
 cdnjs.cloudflare.com
+cdpn.io
 checkip.amazonaws.com
 cloud-api.vivlio.com
 cloud.acrobat.com
 cloud.microsoft
 cloudaccess.svc.ui.com
 code.datagridxl.com
+d.docs.live.net
+damrexelprod.blob.core.windows.net
 data.msn.com
 dcs.adobedc.net
 devaccess.easy4ipcloud.com
@@ -89,6 +95,8 @@ digikey.egain.cloud
 discourse-flathub-org-uploads.s3.dualstack.us-east-1.amazonaws.com
 docs.google.com
 doh20prdapp01-canary-opaph.netmon.azure.com
+download.proxmox.com
+dropbox.com
 dunamis-ethos502-prod-irl1-1c6eda20abd94916.elb.eu-west-1.amazonaws.com
 dunamis-ethos508-prod-va6-856defacfb833db1.elb.us-east-1.amazonaws.com
 dynamodb.af-south-1.amazonaws.com

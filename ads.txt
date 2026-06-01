@@ -51,9 +51,11 @@ dmp.nativendo.de
 ds1h54b9h1.kameleoon.eu
 dsp-service.admatic.de
 dsp.outbrainimg.com
+easylist-downloads.adblockplus.org
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 euw1.s.seedtag.com
+fls.doubleclick.net
 heliumads.com
 html-load.com
 iadsdk.apple.com

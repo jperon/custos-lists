@@ -17,6 +17,7 @@ caast.tv
 cdndirector.dailymotion.com
 cdndirector.dailymotion.com.cdn.cloudflare.net
 chunk-gcp-us-east4-vop1.edgemv.mux.com
+clovis-diffusion.com
 content.viralize.tv
 dacaf1fd2c05.j.cloudfront.hls.ttvnw.net
 dssott.com
