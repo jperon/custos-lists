@@ -1,0 +1,104 @@
+name: build-lists
+
+# Compile les listes de domaines (.bin) et publie deux archives de release :
+#   - custos-lists-full.tar.zst    : custom/*.bin + toulouse/*.bin
+#   - custos-lists-lowmem.tar.zst  : custom/*.bin uniquement (sans Toulouse)
+#
+# Le moteur de compilation (lua/filter/updater.lua) n'est PAS vendu dans ce
+# dépôt : il est cloné depuis custos à une révision épinglée (CUSTOS_REF), afin
+# que le format .bin (hash xxh64 48 bits) reste octet-pour-octet identique au
+# runtime déployé. Mettre à jour CUSTOS_REF lors d'un changement de format.
+
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - 'custom/**'
+      - 'ci/config.moon'
+      - '.github/workflows/build.yml'
+  workflow_dispatch: {}
+  schedule:
+    # Rafraîchit Toulouse une fois par semaine (lundi 04:17 UTC).
+    - cron: '17 4 * * 1'
+
+permissions:
+  contents: write   # nécessaire pour créer/mettre à jour les releases
+
+env:
+  # Révision épinglée du dépôt custos fournissant updater.lua + runtime.
+  CUSTOS_REF: master
+  CUSTOS_REPO: jperon/custos
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout custos-lists
+        uses: actions/checkout@v4
+        with:
+          path: lists
+
+      - name: Checkout custos runtime (pinned)
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.CUSTOS_REPO }}
+          ref: ${{ env.CUSTOS_REF }}
+          path: custos
+          # Dépôt privé : fournir un PAT en secret CUSTOS_TOKEN.
+          # Si custos devient public, ce token est inutile.
+          token: ${{ secrets.CUSTOS_TOKEN || github.token }}
+
+      - name: Install build dependencies
+        run: |
+          sudo apt-get update
+          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+            luajit luarocks libxxhash0 curl ca-certificates make \
+            build-essential lua5.1 liblua5.1-0-dev zstd
+          sudo luarocks install moonscript
+
+      - name: Compile custos runtime (lua/)
+        working-directory: custos
+        run: make all
+
+      - name: Compile lists (.bin)
+        env:
+          LISTS_ROOT: ${{ github.workspace }}/lists
+          # updater.lua charge `config` au require (avant de traiter --config) :
+          # seul CUSTOS_CONFIG_PATH dans l'environnement est pris en compte.
+          CUSTOS_CONFIG_PATH: ${{ github.workspace }}/lists/ci/config.moon
+        run: |
+          cd custos
+          LUA_PATH="lua/?.lua;lua/?/init.lua;;" \
+            luajit lua/filter/updater.lua
+
+      - name: Package archives
+        working-directory: lists
+        run: |
+          mkdir -p dist
+          # Archive full : custom + toulouse
+          tar --sort=name -cf - custom/*.bin toulouse/*.bin \
+            | zstd -19 -o dist/custos-lists-full.tar.zst
+          # Archive lowmem : custom uniquement
+          tar --sort=name -cf - custom/*.bin \
+            | zstd -19 -o dist/custos-lists-lowmem.tar.zst
+          ( cd dist && sha256sum *.tar.zst > SHA256SUMS )
+          ls -lh dist/
+
+      - name: Compute release tag
+        id: tag
+        run: echo "tag=lists-$(date -u +%Y.%m.%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Publish release (dated + latest)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        working-directory: lists
+        run: |
+          notes="Listes compilées le $(date -u +%Y-%m-%dT%H:%M:%SZ) — custos@${CUSTOS_REF}"
+          for tag in "${{ steps.tag.outputs.tag }}" latest; do
+            if gh release view "$tag" >/dev/null 2>&1; then
+              gh release upload "$tag" dist/* --clobber
+              gh release edit "$tag" --notes "$notes"
+            else
+              gh release create "$tag" dist/* --title "$tag" --notes "$notes"
+            fi
+          done
