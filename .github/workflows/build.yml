@@ -26,7 +26,9 @@ permissions:
 
 env:
   # Révision épinglée du dépôt custos fournissant updater.lua + runtime.
-  CUSTOS_REF: master
+  # SHA figé pour garantir un format .bin stable et inclure le correctif
+  # --config + l'ignorance des listes vides (9451e1a).
+  CUSTOS_REF: 9451e1a0e38cf71b6fb68b18badce8e77c00fa97
   CUSTOS_REPO: jperon/custos
 
 jobs:
@@ -63,13 +65,11 @@ jobs:
       - name: Compile lists (.bin)
         env:
           LISTS_ROOT: ${{ github.workspace }}/lists
-          # updater.lua charge `config` au require (avant de traiter --config) :
-          # seul CUSTOS_CONFIG_PATH dans l'environnement est pris en compte.
-          CUSTOS_CONFIG_PATH: ${{ github.workspace }}/lists/ci/config.moon
         run: |
           cd custos
           LUA_PATH="lua/?.lua;lua/?/init.lua;;" \
-            luajit lua/filter/updater.lua
+            luajit lua/filter/updater.lua \
+              --config ${{ github.workspace }}/lists/ci/config.moon
 
       - name: Package archives
         working-directory: lists
