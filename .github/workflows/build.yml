@@ -27,8 +27,8 @@ permissions:
 env:
   # Révision épinglée du dépôt custos fournissant updater.lua + runtime.
   # SHA figé pour garantir un format .bin stable et inclure le correctif
-  # --config + l'ignorance des listes vides (9451e1a).
-  CUSTOS_REF: 9451e1a0e38cf71b6fb68b18badce8e77c00fa97
+  # ignorance des catégories Toulouse sans domaine valide (a3526b5).
+  CUSTOS_REF: a3526b58fe1805aba2fa3a7d46354ca3dd303899
   CUSTOS_REPO: jperon/custos
 
 jobs:
