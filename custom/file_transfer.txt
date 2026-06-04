@@ -1,9 +1,6 @@
 api.onedrive.com
+cellrebel.com
 files.hozana.org
-filetransferbahrain.cellrebel.com
-filetransferbelgium.cellrebel.com
-filetransferwarsaw.cellrebel.com
-google-file-transfer-cdn.cellrebel.com
 grosfichiers.ch
 grosfichiers.com
 wetransfer.com

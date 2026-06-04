@@ -10,7 +10,6 @@ boomerangsupport.zendesk.com
 bot-management-api.tolk.ai
 cpdl.org
 db.stemarie.dynv6.net
-docteurangelique.free.fr
 editmysite.com
 editorx.com
 espaceclient.lacostedbe.fr

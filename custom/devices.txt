@@ -8,7 +8,6 @@ android.clients.google.com
 android.l.google.com
 api.ad.intl.xiaomi.com
 api.djiservice.org
-api.gallery.intl.miui.com
 api.hpsmart.com
 api.knox-matrix.com
 api.samsungconsent.com
@@ -38,10 +37,9 @@ eu-auth2.samsungosp.com
 eu.global.market.xiaomi.com
 googleapis.com
 internal-faq.m5stack.com
-jupiter.intl.sys.miui.com
 konicaminolta-bizhub-c300i-45-b0-172.dns-sd.org
 liveupdate01s.asus.com
-mcc.inf.miui.com
+miui.com
 msg.csw.lenovo.com
 mus.lenovo.com
 mydjiflight.dji.com

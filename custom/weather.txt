@@ -1,4 +1,5 @@
 api.openweathermap.org
+apple.com
 forecast.lemonde.fr
 maree.info
 marine.meteoconsult.fr
@@ -6,10 +7,5 @@ meteociel.fr
 meteofrance.com
 meteosuisse.admin.ch
 meteosuisse.ch
-weather-analytics-events.apple.com
-weather-data.apple.com
-weather-edge.apple.com
 weather-edge.fe2.apple-dns.net
-weather-map2.apple.com
-weatherkit.apple.com
 windy.com

@@ -1,5 +1,3 @@
-004nvy2hrntqjlojhzg1d9q7fasyp1779908017.uaid.vtwenty.com
-04j608jewxbux7t6crj1fgbobbmts1779399426.uaid.vtwenty.com
 1.gravatar.com
 1.ssiloc.com
 1apdnh.tdum.alibaba.com
@@ -7,6 +5,7 @@
 2377cee1a47e6087e1bfe08eaa40f528.fp.measure.office.com
 24145947f0714691a9f8291641e42166.fp.measure.office.com
 37er19htfd.execute-api.us-east-1.amazonaws.com
+3gppnetwork.org
 4-courier.push.apple.com
 46-courier.push.apple.com
 47-courier.push.apple.com
@@ -24,9 +23,6 @@
 6ecd3fe00e1a41009a5a5c3e95dda510.fp.measure.office.com
 7-courier.push.apple.com
 77013.n.trusteer.com
-7b0bu6boarb5mbmm2lntm4b9xgvjm1779909265.uaid.vtwenty.com
-7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
-7ba3f64df98de730df38846b54ecfbdf7f61f80f.ipv6.cws.conviva.com
 7nlse4.tdum.alibaba.com
 7q8vwb-cdn-settings.appsflyersdk.com
 7vktq5.tdum.alibaba.com
@@ -74,6 +70,7 @@ acctcdn.msauth.net
 acctcdnmsftuswe2.azureedge.net
 acdcatm.outlook.mira.tm.svc.cloud.microsoft
 acquiring-cdn.revolut.com
+acrobat.com
 acroipm2.adobe.com
 addoncrop.com
 addons-pa.clients6.google.com
@@ -89,7 +86,6 @@ ae2.r04.leaf02.par04.fab.netarch.akamai.com
 ae4.r02.tor02.par04.fab.netarch.akamai.com
 aepxlg.adobe.com
 aerialpoint-g.djicdn.com
-aes.mnc010.mcc208.pub.3gppnetwork.org
 aet.spotify.com
 afs.ampaeservices.com
 ags.privatelink.msidentity.com
@@ -103,13 +99,11 @@ ak8s-prod-sk2-ext-nlb-e90462229663686e.elb.eu-north-1.amazonaws.com
 aka.ms
 akamai-ic-369347.ip.twelve99-cust.net
 akamai.net
-akamai.par.franceix.net
 alainr.saralain.info
 alb-external-prod-aiops-2025817630.eu-west-1.elb.amazonaws.com
 albert.apple.com
 alibabadns.com
 alphaducentaure.e-monsite.com
-amazon.par.franceix.net
 amd-infra.itunes.apple.com
 amp-api-edge.apps.apple.com
 amp-api-edge.media.apple.com
@@ -225,7 +219,6 @@ apple-dns.net
 aqueduct.revolut.com
 ar.vittascience.com
 arc.msn.com
-arc.trafficmanager.net
 archive.mozilla.org
 arcus-uswest.amazon.com
 ardownload3.adobe.com
@@ -259,7 +252,6 @@ augloop-prod-pb00.francecentral.cloudapp.azure.com
 augloop-prod-pb02.francecentral.cloudapp.azure.com
 augloop-prod-pb03.francecentral.cloudapp.azure.com
 augloop-prod-pb04.francecentral.cloudapp.azure.com
-augloop-prod.trafficmanager.net
 augloop.svc.cloud.microsoft
 auth.fandom.com
 auth.hubprotransport.com
@@ -270,9 +262,6 @@ callhome.svc.ui.com
 ccm.net
 cdn.lesnumeriques.com
 cdn.lesnums.com
-claranet-logger1.dginfra.net
-claranet-logger2.dginfra.net
-claranet-logger3.dginfra.net
 claude.ai
 clerk.openrouter.ai
 click.database-client.com
@@ -298,15 +287,11 @@ consent.youtube.com
 consentcdn.cookiebot.com
 consentcdn.cookiebot.eu
 contrib.rocks
+conviva.com
 cookie-cdn.cookiepro.com
-copilot-copilot-msft-com.trafficmanager.net
-cosmic-westeurope-ns-cbf6e4cb41a8.trafficmanager.net
-cosmic-westeurope-ns-ceb6f0ee85ee.trafficmanager.net
 cpl.iubenda.com
 crash.163.com
 crashlogs.whatsapp.net
-createpdf-asr.acrobat.com
-createpdf.acrobat.com
 dailyup-api.etxstudio.com
 data-api-prod.opensignal.com
 data-graph.api-services.prod.rscomp.systems
@@ -319,6 +304,7 @@ dev.ubnt.com
 devolutions.net
 dgdiffusion.com
 dgdiffusion.mobistep.net
+dginfra.net
 diagmon-serviceapi.samsungdm.com
 diffusion.shom.fr
 digital.lb.sea1.medallia.com
@@ -343,10 +329,6 @@ dynamodb.af-south-1.amazonaws.com
 dynamodb.ap-east-1.amazonaws.com
 embeds.iubenda.com
 enclave.ua5v.com
-eop-mrc-ww-acdc-fs.trafficmanager.net
-epdg.epc.mnc001.mcc208.pub.3gppnetwork.org
-epdg.epc.mnc010.mcc208.pub.3gppnetwork.org
-epdg.epc.mnc020.mcc208.pub.3gppnetwork.org
 epss.alibaba-inc.com
 eu-data.kameleoon.eu
 eu-data.kameleoon.io
@@ -369,6 +351,7 @@ fndrsp.net
 forms.shopifyapps.com
 forum.lvgl.io
 forums.commentcamarche.net
+franceix.net
 google-analytics.com
 googleapis.com
 gos-api.gos-gsp.io
@@ -393,7 +376,6 @@ installer-backend-prod.uc.r.appspot.com
 integrations.etrusted.com
 intercom.help
 internal-faq.m5stack.com
-ipv4.cws.conviva.com
 js-eu1.hs-scripts.com
 js-eu1.hscollectedforms.net
 js-eu1.hubspot.com
@@ -408,7 +390,6 @@ js.sentry-cdn.com
 js.stripe.com
 k8s-caastapi-ingressc-453096bb2a-2082711651.eu-west-2.elb.amazonaws.com
 keyyo-ic-389903.ip.twelve99-cust.net
-keyyo.par.franceix.net
 klevu-public-alb-waf-2063439971.eu-west-1.elb.amazonaws.com
 ksearchnet.com
 kvt.sddan.com
@@ -453,13 +434,11 @@ n8n.yumpu.io
 nelreports.net
 nextdns.io
 nexus-websocket-a.intercom.io
-ngf3.infra.raccourci.fr
 normatrans.station-chargeur.com
 ntp.org
 nxt.chessbomb.com
 observe-tcp.mtgglobals.com
 ooklaserver.net
-openresty.infra.raccourci.fr
 opensignal-api.opensignal.com
 orion.bendingspoons.com
 p.presage.io
@@ -478,7 +457,6 @@ proof.ovh.net
 ps.userapi.com
 psv4.userapi.com
 ptqrwzp.pa-cd.com
-pub.geolb.infra.raccourci.fr
 public-ethos503-prod-irl1-d4f966b9c456443e.elb.eu-west-1.amazonaws.com
 public-ethos551-prod-va6-86ff40ecc44ad93b.elb.us-east-1.amazonaws.com
 public-ethos602-prod-irl1-481ed62a59a7e9cd.elb.eu-west-1.amazonaws.com
@@ -486,10 +464,9 @@ public.rive.app
 publicsuffix.org
 r.info2.ca-technologies.fr
 r.infopro.fr
+raccourci.fr
 rayjump.com
 reachit.lenovo.com
-rna-resource.acrobat.com
-rna-v2-resource.acrobat.com
 s-part-0048.t-0009.t-msedge.net
 sanasecurity.com
 singapore.performaized.com
@@ -497,6 +474,7 @@ snbsm.com
 speedtest.par1.adky.net
 t.screeb.app
 target.farnell.com
+trafficmanager.net
 u-ams.4dex.io
 udps.adobe.com
 uk.rs-online.com
@@ -512,6 +490,7 @@ usemaxserver.de
 user-sync.fwmrm.net
 usercentrics.eu
 verisign.com
+vtwenty.com
 windows.com
 windowsupdate.com
 www.adafruit.com

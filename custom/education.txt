@@ -1,21 +1,18 @@
 0.academia-photos.com
 a.academia-assets.com
 abonnement.larousse.fr
+ac.be
 academia.edu.cdn.cloudflare.net
 admin.lalanguefrancaise.com
 aep-saint-joseph-des-carmes.typingclub.com
-agoraclass.fltr.ucl.ac.be
 americanliterature.com
 analytics.openedition.org
 api.academia.edu
 api.ices.fr
 api.supercoloring.com
-arche.univ-lorraine.fr
 archive.org
 attachments.academia-assets.com
-auth.univ-lorraine.fr
 bahno.prof.free.fr
-bcs.fltr.ucl.ac.be
 beckett.etudier.com
 biblio.manuel-numerique.com
 biblio.nathan.fr
@@ -54,7 +51,6 @@ hebergement-nat.ac-besancon.fr
 histographie.net
 histoire-image.org
 histoire.ac-versailles.fr
-janus.sipr.ucl.ac.be
 journals.openedition.org
 kartable.fr
 kwize.com
@@ -74,7 +70,6 @@ mathematiques.daval.free.fr
 mathematiques.lmrl.lu
 maths-mde.fr
 maths-pdf.fr
-miroir.univ-lorraine.fr
 moocgdp.gestiondeprojet.pm
 my.calcs.quest
 my.letudiant.fr
@@ -83,7 +78,6 @@ padlet.com
 padlet.net
 perlego.com
 portailavenirs.ingeus.fr
-pot-pourri.fltr.ucl.ac.be
 ps.calameoassets.com
 public.slidesharecdn.com
 quillbot.com
@@ -95,6 +89,7 @@ svt.ac-besancon.fr
 svt.dis.ac-guyane.fr
 talkpal.ai
 topmaths.fr
+univ-lorraine.fr
 utpictura18.univ-amu.fr
 vittascience.com
 vm-plone3.ens-lyon.fr
