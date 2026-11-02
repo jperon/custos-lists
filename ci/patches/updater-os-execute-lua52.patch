@@ -1,0 +1,16 @@
+diff --git a/src/filter/updater.moon b/src/filter/updater.moon
+index c32452e..5b5a730 100644
+--- a/src/filter/updater.moon
++++ b/src/filter/updater.moon
+@@ -122,7 +122,10 @@ download_file = (url, dest, timeout) ->
+   timeout = timeout or 120
+   cmd = "curl --silent --location --max-time #{timeout} --fail -o #{sh_quote(dest)} #{sh_quote(url)}"
+   ret = os.execute cmd
+-  ret == 0
++  -- Lua 5.2 (LUAJIT_ENABLE_LUA52COMPAT, luajit d'Ubuntu 26.04) : os.execute
++  -- renvoie true/nil, "exit", code au lieu du seul code numérique de Lua 5.1.
++  -- Sans ce test, tout téléchargement réussi est considéré comme un échec.
++  ret == 0 or ret == true
+ 
+ -- ── Format Toulouse ───────────────────────────────────────────────
+ 
