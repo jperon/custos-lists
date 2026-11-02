@@ -26,9 +26,12 @@ permissions:
 
 env:
   # Révision épinglée du dépôt custos fournissant updater.lua + runtime.
-  # SHA figé pour garantir un format .bin stable et inclure le correctif
-  # ignorance des catégories Toulouse sans domaine valide (a3526b5).
-  CUSTOS_REF: a3526b58fe1805aba2fa3a7d46354ca3dd303899
+  # SHA figé pour garantir un format .bin stable. Inclut :
+  #   - a3526b5 : ignore les catégories Toulouse sans domaine valide
+  #   - 1523553 : os.execute compatible Lua 5.2+ (LUA52COMPAT), via
+  #     lib.os_exec.exec_ok (luajit d'Ubuntu 26.04 renvoie true/nil, pas un code)
+  # Changer ce SHA exige de vérifier la stabilité du format .bin (hash xxh64 48 bits).
+  CUSTOS_REF: 1523553ec3ede47e2de0097bb6d23d2e1c655a9c
   CUSTOS_REPO: jperon/custos
 
 jobs:
@@ -46,19 +49,9 @@ jobs:
           repository: ${{ env.CUSTOS_REPO }}
           ref: ${{ env.CUSTOS_REF }}
           path: custos
-          # Dépôt privé : fournir un PAT en secret CUSTOS_TOKEN.
-          # Si custos devient public, ce token est inutile.
+          # custos est public : le token du workflow suffit. Le secret
+          # CUSTOS_TOKEN reste accepté en préfixe (fallback) sans effet.
           token: ${{ secrets.CUSTOS_TOKEN || github.token }}
-
-      - name: Patch custos runtime (os.execute Lua 5.2)
-        run: |
-          # LuaJIT d'Ubuntu 26.04 (LUAJIT_ENABLE_LUA52COMPAT) : os.execute
-          # renvoie true/nil, "exit", code au lieu du seul code numérique de
-          # Lua 5.1. Le code épinglé (a3526b5) ne teste que `ret == 0` dans
-          # download_file et considère donc TOUT téléchargement réussi comme un
-          # échec (run 41387953339). Patch minimal en attendant un CUSTOS_REF
-          # incluant le correctif en amont.
-          git -C custos apply "$GITHUB_WORKSPACE/lists/ci/patches/updater-os-execute-lua52.patch"
 
       - name: Install build dependencies
         run: |
@@ -94,11 +87,19 @@ jobs:
           ( cd dist && sha256sum *.tar.zst > SHA256SUMS )
           ls -lh dist/
 
+      # ── Publication : master uniquement ────────────────────────────────
+      # Garde permanent : un run déclenché sur une branche de travail
+      # (workflow_dispatch --ref <branche>) valide la compilation sans
+      # publier de release `latest`, qui serait alors construite depuis du
+      # code non mergé. Le `schedule` et les `push` ciblent master : la
+      # garde n'a donc aucun effet en production.
       - name: Compute release tag
         id: tag
+        if: github.ref == 'refs/heads/master'
         run: echo "tag=lists-$(date -u +%Y.%m.%d)" >> "$GITHUB_OUTPUT"
 
       - name: Publish release (dated + latest)
+        if: github.ref == 'refs/heads/master'
         env:
           GH_TOKEN: ${{ github.token }}
         working-directory: lists
